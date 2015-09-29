@@ -1,0 +1,2561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A</key>
+	<dict>
+		<key>Aarberg Bielstr/Friedhof</key>
+		<integer>1001</integer>
+		<key>Aarberg Murtenstrasse</key>
+		<integer>1004</integer>
+		<key>Aarberg Nidaustrasse</key>
+		<integer>1005</integer>
+		<key>Aarberg Post Bahnhof</key>
+		<integer>1003</integer>
+		<key>Aarberg Spital</key>
+		<integer>1006</integer>
+		<key>Aarezelg</key>
+		<integer>1000</integer>
+		<key>Aarweg</key>
+		<integer>1428</integer>
+		<key>Abeggstiftung</key>
+		<integer>1565</integer>
+		<key>Achseten Bettbach</key>
+		<integer>4423</integer>
+		<key>Achseten Bönigen</key>
+		<integer>4424</integer>
+		<key>Achseten Hoher Steg</key>
+		<integer>4422</integer>
+		<key>Achseten Kirche</key>
+		<integer>4309</integer>
+		<key>Achseten Schmitten</key>
+		<integer>4425</integer>
+		<key>Achseten Tregel</key>
+		<integer>4421</integer>
+		<key>Adelboden Hirschen</key>
+		<integer>4420</integer>
+		<key>Adelboden Hirzboden</key>
+		<integer>4308</integer>
+		<key>Adelboden Margeli</key>
+		<integer>4307</integer>
+		<key>Adelboden Mineralquelle</key>
+		<integer>4305</integer>
+		<key>Adelboden Mühleport</key>
+		<integer>4304</integer>
+		<key>Adelboden Neuweg</key>
+		<integer>4419</integer>
+		<key>Adelboden Oey</key>
+		<integer>4306</integer>
+		<key>Adelboden Post</key>
+		<integer>4303</integer>
+		<key>Aefligen Gemeindehaus</key>
+		<integer>4048</integer>
+		<key>Aegerten Dorfplatz</key>
+		<integer>1778</integer>
+		<key>Aegerten Stockfeld</key>
+		<integer>1779</integer>
+		<key>Aegertenstrasse</key>
+		<integer>21</integer>
+		<key>Aeschi Dorf</key>
+		<integer>4295</integer>
+		<key>Aeschi SO Ost</key>
+		<integer>4483</integer>
+		<key>Aespliz</key>
+		<integer>3045</integer>
+		<key>Aetigkofen Dorf</key>
+		<integer>1007</integer>
+		<key>Aetingen Post</key>
+		<integer>1009</integer>
+		<key>Aetzikofen Abzw</key>
+		<integer>1082</integer>
+		<key>Aeussere Enge</key>
+		<integer>22</integer>
+		<key>Aeusseres Emdthal</key>
+		<integer>4438</integer>
+		<key>Alfermée</key>
+		<integer>4095</integer>
+		<key>Allmendingen</key>
+		<integer>3002</integer>
+		<key>Allmendweg</key>
+		<integer>1430</integer>
+		<key>Alpenstrasse</key>
+		<integer>237</integer>
+		<key>Alte Hueti</key>
+		<integer>1817</integer>
+		<key>Altes Schulhaus</key>
+		<integer>3016</integer>
+		<key>Ammannsegg</key>
+		<integer>3144</integer>
+		<key>Amselweg</key>
+		<integer>3035</integer>
+		<key>Arch Aarestrasse</key>
+		<integer>4460</integer>
+		<key>Arch Arche</key>
+		<integer>4291</integer>
+		<key>Arch Kreuz</key>
+		<integer>4120</integer>
+		<key>Arni BE Dorf</key>
+		<integer>1023</integer>
+		<key>Arni BE Hämlismatt</key>
+		<integer>1024</integer>
+		<key>Arni BE Matte</key>
+		<integer>1025</integer>
+		<key>Arni BE Schwendelweg</key>
+		<integer>1026</integer>
+		<key>Arni BE Tanne</key>
+		<integer>1027</integer>
+		<key>Arni Walke</key>
+		<integer>1059</integer>
+		<key>Arnisäge BE Post</key>
+		<integer>1028</integer>
+		<key>Aspi</key>
+		<integer>1137</integer>
+		<key>Attiswil Post</key>
+		<integer>4086</integer>
+		<key>Au</key>
+		<integer>1431</integer>
+		<key>Aumatt</key>
+		<integer>1254</integer>
+		<key>Ausserholligen Bahnhof</key>
+		<integer>92</integer>
+		<key>Ausserortschwaben</key>
+		<integer>1074</integer>
+	</dict>
+	<key>B</key>
+	<dict>
+		<key>Bachmätteli</key>
+		<integer>24</integer>
+		<key>Badgasse</key>
+		<integer>277</integer>
+		<key>Baggwil Dorf</key>
+		<integer>1154</integer>
+		<key>Baggwil Graben</key>
+		<integer>1152</integer>
+		<key>Bahnhofplatz/Place de la Gare</key>
+		<integer>1050</integer>
+		<key>Balm b. Messen Wendeplatz</key>
+		<integer>1032</integer>
+		<key>Balm bei Meiringen Brücke</key>
+		<integer>4262</integer>
+		<key>Bau und Hobby</key>
+		<integer>1436</integer>
+		<key>Beaumont</key>
+		<integer>45</integer>
+		<key>Bei den Weihern Bahnhof</key>
+		<integer>4083</integer>
+		<key>Bellach Franziskanerhof</key>
+		<integer>4388</integer>
+		<key>Bellach Gärisch</key>
+		<integer>4450</integer>
+		<key>Bellach Hubel</key>
+		<integer>4447</integer>
+		<key>Bellach Rütti</key>
+		<integer>4448</integer>
+		<key>Bellach Schulhaus</key>
+		<integer>4114</integer>
+		<key>Bellach Tell</key>
+		<integer>4115</integer>
+		<key>Bellach Wallierenweg</key>
+		<integer>4449</integer>
+		<key>Bellmund Bodenacher</key>
+		<integer>1039</integer>
+		<key>Bellmund Dorf</key>
+		<integer>1040</integer>
+		<key>Bellmund Stöckleren</key>
+		<integer>1043</integer>
+		<key>Belp  Post</key>
+		<integer>4001</integer>
+		<key>Belp Aemmenmatt</key>
+		<integer>364</integer>
+		<key>Belp Bahnhof</key>
+		<integer>265</integer>
+		<key>Belp Bützacker</key>
+		<integer>361</integer>
+		<key>Belp Fahrhubelweg</key>
+		<integer>378</integer>
+		<key>Belp Giessenbad</key>
+		<integer>358</integer>
+		<key>Belp Greulebach</key>
+		<integer>295</integer>
+		<key>Belp Holiebi</key>
+		<integer>370</integer>
+		<key>Belp Käsereistrasse</key>
+		<integer>350</integer>
+		<key>Belp Lehn</key>
+		<integer>349</integer>
+		<key>Belp Muristrasse Süd</key>
+		<integer>336</integer>
+		<key>Belp Neumatt</key>
+		<integer>355</integer>
+		<key>Belp Riedli</key>
+		<integer>299</integer>
+		<key>Belp Schützen</key>
+		<integer>352</integer>
+		<key>Belp Steinbachkreisel</key>
+		<integer>4000</integer>
+		<key>Belp Zelgweg</key>
+		<integer>354</integer>
+		<key>Bennenboden</key>
+		<integer>1356</integer>
+		<key>Bern Bahnhof</key>
+		<integer>1</integer>
+		<key>Bern Flughafen</key>
+		<integer>294</integer>
+		<key>Bern Forsthaus</key>
+		<integer>1764</integer>
+		<key>Bern Gaskessel</key>
+		<integer>4486</integer>
+		<key>Bern Hauptbahnhof</key>
+		<integer>1194</integer>
+		<key>Bern Lindenhofspital</key>
+		<integer>1763</integer>
+		<key>Bern Melchiorstrasse</key>
+		<integer>1838</integer>
+		<key>Bern Obergericht</key>
+		<integer>1241</integer>
+		<key>Bern Zähringerstrasse</key>
+		<integer>4013</integer>
+		<key>Bernfeld</key>
+		<integer>1013</integer>
+		<key>Bernstrasse</key>
+		<integer>3139</integer>
+		<key>Betagtenheim</key>
+		<integer>3101</integer>
+		<key>Bethlehem Kirche</key>
+		<integer>1204</integer>
+		<key>Bethlehem Säge</key>
+		<integer>100</integer>
+		<key>Bettlach Ariston</key>
+		<integer>4453</integer>
+		<key>Bettlach Dorfplatz</key>
+		<integer>4299</integer>
+		<key>Bettlach Kastels</key>
+		<integer>4454</integer>
+		<key>Bettlach Krone</key>
+		<integer>4452</integer>
+		<key>Bettlach St.Urs</key>
+		<integer>4298</integer>
+		<key>Beundengasse</key>
+		<integer>1714</integer>
+		<key>Biberen Molkerei</key>
+		<integer>4154</integer>
+		<key>Biberist Aesplistrasse</key>
+		<integer>3138</integer>
+		<key>Biberist Emmenbrücke</key>
+		<integer>4125</integer>
+		<key>Biberist Kaiserstrasse</key>
+		<integer>4469</integer>
+		<key>Biberist St. Urs</key>
+		<integer>3140</integer>
+		<key>Biberist Waldstrasse</key>
+		<integer>4164</integer>
+		<key>Bibern Post</key>
+		<integer>1048</integer>
+		<key>Biel Guisanplatz</key>
+		<integer>3203</integer>
+		<key>Biel Mett Bahnhof</key>
+		<integer>4272</integer>
+		<key>Biel/Bienne Amthaus/Préfect.</key>
+		<integer>4406</integer>
+		<key>Biel/Bienne BBZ/CFP</key>
+		<integer>4168</integer>
+		<key>Biel/Bienne Badhausstrasse</key>
+		<integer>1029</integer>
+		<key>Biel/Bienne Battenberg</key>
+		<integer>4273</integer>
+		<key>Biel/Bienne Beau-Rivage</key>
+		<integer>4093</integer>
+		<key>Biel/Bienne Bellevue</key>
+		<integer>4391</integer>
+		<key>Biel/Bienne Brunnenplatz</key>
+		<integer>4380</integer>
+		<key>Biel/Bienne Bözingen</key>
+		<integer>4173</integer>
+		<key>Biel/Bienne Erlacherweg</key>
+		<integer>4107</integer>
+		<key>Biel/Bienne Falkenstrasse</key>
+		<integer>4169</integer>
+		<key>Biel/Bienne Gottstatterhaus</key>
+		<integer>4409</integer>
+		<key>Biel/Bienne Grünweg</key>
+		<integer>4269</integer>
+		<key>Biel/Bienne Guido-Müller-Pl.</key>
+		<integer>4402</integer>
+		<key>Biel/Bienne Heideweg/Landes</key>
+		<integer>4404</integer>
+		<key>Biel/Bienne Kongresshaus</key>
+		<integer>1785</integer>
+		<key>Biel/Bienne Löhre</key>
+		<integer>4274</integer>
+		<key>Biel/Bienne Museen/Musées</key>
+		<integer>4407</integer>
+		<key>Biel/Bienne Mühle</key>
+		<integer>4271</integer>
+		<key>Biel/Bienne Mühleinsel</key>
+		<integer>4270</integer>
+		<key>Biel/Bienne Neumarkt/Marché-</key>
+		<integer>4381</integer>
+		<key>Biel/Bienne Omega</key>
+		<integer>4014</integer>
+		<key>Biel/Bienne Orange</key>
+		<integer>4265</integer>
+		<key>Biel/Bienne Orpundplatz</key>
+		<integer>4015</integer>
+		<key>Biel/Bienne Place du Jura</key>
+		<integer>4392</integer>
+		<key>Biel/Bienne Pont-du-Moulin</key>
+		<integer>4166</integer>
+		<key>Biel/Bienne Redernweg</key>
+		<integer>4171</integer>
+		<key>Biel/Bienne Rte de Neuch\U00e2tel</key>
+		<integer>4408</integer>
+		<key>Biel/Bienne Räblus Vingelz</key>
+		<integer>4094</integer>
+		<key>Biel/Bienne Schleusenweg</key>
+		<integer>4267</integer>
+		<key>Biel/Bienne Schlössli/Ch\U00e2tel.</key>
+		<integer>4410</integer>
+		<key>Biel/Bienne Stadtpark</key>
+		<integer>4266</integer>
+		<key>Biel/Bienne Swiss Tennis</key>
+		<integer>4382</integer>
+		<key>Biel/Bienne Taubenloch</key>
+		<integer>4172</integer>
+		<key>Biel/Bienne Tiefenmatt</key>
+		<integer>1788</integer>
+		<key>Biel/Bienne Zaunweg</key>
+		<integer>4268</integer>
+		<key>Biel/Bienne Zentralplatz</key>
+		<integer>1789</integer>
+		<key>Biel/Bienne Zeughausstrasse</key>
+		<integer>4170</integer>
+		<key>Biel/Bienne Zollhaus</key>
+		<integer>4174</integer>
+		<key>Biel/BienneHeilmann-Strasse</key>
+		<integer>4167</integer>
+		<key>Bierhübeli</key>
+		<integer>70</integer>
+		<key>Biezwil Dorf</key>
+		<integer>1053</integer>
+		<key>Bifang</key>
+		<integer>1002</integer>
+		<key>Biglen Bahnhof</key>
+		<integer>1055</integer>
+		<key>Biglen Biglenrohr</key>
+		<integer>1057</integer>
+		<key>Biglen Bären</key>
+		<integer>1056</integer>
+		<key>Biglen Sonne</key>
+		<integer>1058</integer>
+		<key>Birchi</key>
+		<integer>1599</integer>
+		<key>Bitziusstrasse</key>
+		<integer>16</integer>
+		<key>Blankweg</key>
+		<integer>3072</integer>
+		<key>Blindenschule</key>
+		<integer>3131</integer>
+		<key>Blinzern</key>
+		<integer>11</integer>
+		<key>Blumenfeld</key>
+		<integer>103</integer>
+		<key>Bolken Dorf</key>
+		<integer>4137</integer>
+		<key>Boll Aeschiweg/Feldackerweg</key>
+		<integer>1753</integer>
+		<key>Boll Gumpisbühlweg</key>
+		<integer>1754</integer>
+		<key>Boll Oberfeldstrasse</key>
+		<integer>1756</integer>
+		<key>Boll Obermoosstrasse</key>
+		<integer>1757</integer>
+		<key>Boll Rüdenweg</key>
+		<integer>1758</integer>
+		<key>Boll Schlossstrasse</key>
+		<integer>1759</integer>
+		<key>Boll-Utzigen Bahnhof</key>
+		<integer>3126</integer>
+		<key>Boll-Utzigen Rain</key>
+		<integer>1071</integer>
+		<key>Bolligen Bahnhof</key>
+		<integer>3123</integer>
+		<key>Bollwerk</key>
+		<integer>68</integer>
+		<key>Bowil Bahnhof</key>
+		<integer>4141</integer>
+		<key>Breitenrain</key>
+		<integer>55</integer>
+		<key>Breitfeld</key>
+		<integer>144</integer>
+		<key>Bremgarten</key>
+		<integer>153</integer>
+		<key>Bremgarten Post</key>
+		<integer>151</integer>
+		<key>Bremgarten Schloss</key>
+		<integer>150</integer>
+		<key>Bremgartenfriedhof</key>
+		<integer>65</integer>
+		<key>Brienz BE Rösslipatz</key>
+		<integer>4255</integer>
+		<key>Brienz HB Bahnhof</key>
+		<integer>4256</integer>
+		<key>Brienzwiler Dorf</key>
+		<integer>4261</integer>
+		<key>Brunnenhof</key>
+		<integer>3047</integer>
+		<key>Brunnenthal Dorf</key>
+		<integer>1091</integer>
+		<key>Brunnhaldenstrasse</key>
+		<integer>131</integer>
+		<key>Brunnhof</key>
+		<integer>38</integer>
+		<key>Brückfeld</key>
+		<integer>72</integer>
+		<key>Brückreuti</key>
+		<integer>1437</integer>
+		<key>Brügg BE Bahnhof</key>
+		<integer>1790</integer>
+		<key>Brügg BE Brüggfeld</key>
+		<integer>1782</integer>
+		<key>Brügg BE Bärletweg</key>
+		<integer>1781</integer>
+		<key>Brügg BE Chaletweg</key>
+		<integer>1783</integer>
+		<key>Brügg BE Jura</key>
+		<integer>1791</integer>
+		<key>Brügg BE Mooswäldli</key>
+		<integer>4405</integer>
+		<key>Brügg BE Möschler</key>
+		<integer>3204</integer>
+		<key>Brügg BE Sonnhalde</key>
+		<integer>1787</integer>
+		<key>Brüggbühlstrasse</key>
+		<integer>178</integer>
+		<key>Brügglen alte Post</key>
+		<integer>1087</integer>
+		<key>Brühlplatz</key>
+		<integer>123</integer>
+		<key>Brünnen Westside Bahnhof</key>
+		<integer>155</integer>
+		<key>Brünnenstrasse</key>
+		<integer>249</integer>
+		<key>Brüttelen Bahnhofstrasse</key>
+		<integer>4485</integer>
+		<key>Buchegg Blumenhaus</key>
+		<integer>1092</integer>
+		<key>Bundesplatz</key>
+		<integer>105</integer>
+		<key>Burgdorf Bahnhof</key>
+		<integer>4019</integer>
+		<key>Burgdorf Hallenbad</key>
+		<integer>4021</integer>
+		<key>Burgdorf Kornhaus</key>
+		<integer>4020</integer>
+		<key>Burgdorf Oberdorf</key>
+		<integer>4025</integer>
+		<key>Burgdorf Parkhaus Oberstadt</key>
+		<integer>4022</integer>
+		<key>Burgdorf Schlossmatt</key>
+		<integer>4023</integer>
+		<key>Burgdorf Spital</key>
+		<integer>4024</integer>
+		<key>Burgernziel</key>
+		<integer>47</integer>
+		<key>Burgistein-Wattenwil  Bahnhof</key>
+		<integer>4005</integer>
+		<key>Burglauenen Bahnhof</key>
+		<integer>4412</integer>
+		<key>Buttenried</key>
+		<integer>1120</integer>
+		<key>Bächtelen</key>
+		<integer>247</integer>
+		<key>Bärau Bahnübergang</key>
+		<integer>4374</integer>
+		<key>Bärau Bäraugrund</key>
+		<integer>4371</integer>
+		<key>Bärau Dorf</key>
+		<integer>4145</integer>
+		<key>Bärau Heimstätte</key>
+		<integer>4373</integer>
+		<key>Bärau Schwimmbad</key>
+		<integer>4370</integer>
+		<key>Bärau Schärischachen</key>
+		<integer>4375</integer>
+		<key>Bärau Sonne</key>
+		<integer>4372</integer>
+		<key>Bärengraben</key>
+		<integer>78</integer>
+		<key>Bärenmatte</key>
+		<integer>1434</integer>
+		<key>Bärenplatz</key>
+		<integer>20</integer>
+		<key>Bärenstutz</key>
+		<integer>1435</integer>
+		<key>Bäriswil</key>
+		<integer>3003</integer>
+		<key>Bätterkinden</key>
+		<integer>3137</integer>
+		<key>Bätterkinden Schützenstrasse</key>
+		<integer>1170</integer>
+		<key>Bätterkinden Sternen</key>
+		<integer>1171</integer>
+		<key>Bönigen Dorf</key>
+		<integer>4237</integer>
+		<key>Bösingen Abzw. Tuftera</key>
+		<integer>1075</integer>
+		<key>Büchslen Rest. Eintracht</key>
+		<integer>4155</integer>
+		<key>Büetigen Dorf</key>
+		<integer>1097</integer>
+		<key>Bühl bei Aarberg Dorf</key>
+		<integer>1098</integer>
+		<key>Bühl bei Aarberg Höll</key>
+		<integer>1099</integer>
+		<key>Bühl bei Aarberg Römerhof</key>
+		<integer>1101</integer>
+		<key>Bümpliz</key>
+		<integer>97</integer>
+		<key>Bümpliz Höhe</key>
+		<integer>94</integer>
+		<key>Bümpliz Nord Bahnhof</key>
+		<integer>193</integer>
+		<key>Bümpliz Post</key>
+		<integer>95</integer>
+		<key>Bümpliz Schloss</key>
+		<integer>194</integer>
+		<key>Bümpliz Süd Bahnhof</key>
+		<integer>192</integer>
+		<key>Bümpliz Unterführung</key>
+		<integer>93</integer>
+		<key>Büren an der Aare Bahnhof</key>
+		<integer>1115</integer>
+		<key>Büren zum Hof</key>
+		<integer>3111</integer>
+		<key>Bütschel Abzw.</key>
+		<integer>1118</integer>
+		<key>Bütschel Gschneit</key>
+		<integer>1119</integer>
+		<key>Bützberg Käserei</key>
+		<integer>4229</integer>
+		<key>Bützberg Neuquartier</key>
+		<integer>4228</integer>
+		<key>Bützberg Tell</key>
+		<integer>4057</integer>
+		<key>Bützberg Unterdorf</key>
+		<integer>4294</integer>
+		<key>Bützberg Wyssenried</key>
+		<integer>4227</integer>
+	</dict>
+	<key>C</key>
+	<dict>
+		<key>Camping</key>
+		<integer>1647</integer>
+		<key>Camping Eichholz</key>
+		<integer>233</integer>
+		<key>Choindez gare</key>
+		<integer>4185</integer>
+		<key>Chrottengässli</key>
+		<integer>3017</integer>
+		<key>Chrummacher</key>
+		<integer>1163</integer>
+		<key>Chäs und Brot</key>
+		<integer>374</integer>
+		<key>Continental</key>
+		<integer>1051</integer>
+		<key>Coop</key>
+		<integer>3059</integer>
+		<key>Courrendlin casino</key>
+		<integer>4183</integer>
+		<key>Courrendlin centre</key>
+		<integer>4184</integer>
+		<key>Court gare</key>
+		<integer>4188</integer>
+		<key>Cäcilienstrasse</key>
+		<integer>39</integer>
+	</dict>
+	<key>D</key>
+	<dict>
+		<key>Dalmazibrücke</key>
+		<integer>268</integer>
+		<key>Dampfzentrale</key>
+		<integer>279</integer>
+		<key>Deisswil</key>
+		<integer>3177</integer>
+		<key>Deitingen Feuerwehrmagazin</key>
+		<integer>4091</integer>
+		<key>Delémont gare</key>
+		<integer>4182</integer>
+		<key>Dennigkofen</key>
+		<integer>3073</integer>
+		<key>Derendingen Freiheit</key>
+		<integer>4132</integer>
+		<key>Derendingen Linde</key>
+		<integer>4473</integer>
+		<key>Derendingen Löhr</key>
+		<integer>4131</integer>
+		<key>Derendingen Mühle</key>
+		<integer>4474</integer>
+		<key>Derendingen Pestalozziplatz</key>
+		<integer>4130</integer>
+		<key>Detligen Jucher</key>
+		<integer>1102</integer>
+		<key>Detligen Post</key>
+		<integer>1100</integer>
+		<key>Dorf</key>
+		<integer>1648</integer>
+		<key>Dorfzentrum</key>
+		<integer>1465</integer>
+		<key>Dotzigen alte Käserei</key>
+		<integer>4292</integer>
+		<key>Drei Tannen / Trois Sapines</key>
+		<integer>1780</integer>
+		<key>Dübystrasse</key>
+		<integer>118</integer>
+		<key>Düdingen Bahnhof</key>
+		<integer>1128</integer>
+		<key>Düdingen Kirche</key>
+		<integer>4067</integer>
+	</dict>
+	<key>E</key>
+	<dict>
+		<key>Ebligen Bahnhof</key>
+		<integer>4254</integer>
+		<key>Egelsee</key>
+		<integer>180</integer>
+		<key>Eichholz</key>
+		<integer>235</integer>
+		<key>Eichmatt</key>
+		<integer>127</integer>
+		<key>Eigen</key>
+		<integer>1284</integer>
+		<key>Eigerplatz</key>
+		<integer>44</integer>
+		<key>Elfenau</key>
+		<integer>139</integer>
+		<key>Emdthal Dorf</key>
+		<integer>4318</integer>
+		<key>Engeried</key>
+		<integer>71</integer>
+		<key>Enggistein Dorf</key>
+		<integer>1134</integer>
+		<key>Enggistein Rüttihubelstrasse</key>
+		<integer>1139</integer>
+		<key>Englisberg Dorf</key>
+		<integer>1143</integer>
+		<key>Englisberg Eichholzacker</key>
+		<integer>1145</integer>
+		<key>Englisberg Neuhaus</key>
+		<integer>1255</integer>
+		<key>Erlach Post</key>
+		<integer>1151</integer>
+		<key>Erlach Sekundarschule</key>
+		<integer>1153</integer>
+		<key>Erlachplatz</key>
+		<integer>3102</integer>
+		<key>Erlenau</key>
+		<integer>1439</integer>
+		<key>Erlenauweg</key>
+		<integer>1192</integer>
+		<key>Etziken Dorf</key>
+		<integer>4136</integer>
+		<key>Eyfeld</key>
+		<integer>3033</integer>
+		<key>Eymatt Camping</key>
+		<integer>1206</integer>
+	</dict>
+	<key>F</key>
+	<dict>
+		<key>Feldbrunnen Bahnhof</key>
+		<integer>4082</integer>
+		<key>Feldbrunnen St. Katharinen</key>
+		<integer>4081</integer>
+		<key>Feldegg</key>
+		<integer>3084</integer>
+		<key>Fellerstrasse</key>
+		<integer>251</integer>
+		<key>Felsenau</key>
+		<integer>3151</integer>
+		<key>Felsenaustrasse</key>
+		<integer>149</integer>
+		<key>Fibourg Heitera</key>
+		<integer>4075</integer>
+		<key>Fischermätteli</key>
+		<integer>42</integer>
+		<key>Flamatt Oberflamatt</key>
+		<integer>4495</integer>
+		<key>Flamatt Post</key>
+		<integer>1162</integer>
+		<key>Flamingo</key>
+		<integer>1466</integer>
+		<key>Flumenthal Post</key>
+		<integer>4085</integer>
+		<key>Flühli</key>
+		<integer>376</integer>
+		<key>Forst b. Längenbühl</key>
+		<integer>4008</integer>
+		<key>Fraubrunnen</key>
+		<integer>3113</integer>
+		<key>Frauenkappelen Chrüzhubel</key>
+		<integer>1164</integer>
+		<key>Frauenkappelen Post</key>
+		<integer>1167</integer>
+		<key>Freibad</key>
+		<integer>3074</integer>
+		<key>Fribourg Boschung</key>
+		<integer>4076</integer>
+		<key>Fribourg Bourg</key>
+		<integer>4078</integer>
+		<key>Fribourg Chancellerie</key>
+		<integer>4353</integer>
+		<key>Fribourg Pont Zaehringen</key>
+		<integer>4077</integer>
+		<key>Fribourg Route-de-Tavel</key>
+		<integer>4248</integer>
+		<key>Fribourg St-Pierre</key>
+		<integer>4355</integer>
+		<key>Fribourg Tilleul</key>
+		<integer>4354</integer>
+		<key>Fribourg Vieux-Ch\U00eane</key>
+		<integer>4074</integer>
+		<key>Fribourg gare CFF</key>
+		<integer>4079</integer>
+		<key>Friedhof / Cimeti\U00e8re</key>
+		<integer>1784</integer>
+		<key>Frienisberg Elemoos</key>
+		<integer>1156</integer>
+		<key>Frieswil Dorf</key>
+		<integer>1142</integer>
+		<key>Frieswilfeld</key>
+		<integer>1372</integer>
+		<key>Frutigen Alte Mühle</key>
+		<integer>4433</integer>
+		<key>Frutigen Ausser Rohrbach</key>
+		<integer>4427</integer>
+		<key>Frutigen Bahnhof</key>
+		<integer>4312</integer>
+		<key>Frutigen Chriesbaum</key>
+		<integer>4431</integer>
+		<key>Frutigen Gantengraben</key>
+		<integer>4430</integer>
+		<key>Frutigen Hohstalden</key>
+		<integer>4429</integer>
+		<key>Frutigen Innerbräschgen</key>
+		<integer>4432</integer>
+		<key>Frutigen Ischlag</key>
+		<integer>4313</integer>
+		<key>Frutigen Marktplatz</key>
+		<integer>4311</integer>
+		<key>Frutigen Meise</key>
+		<integer>4428</integer>
+		<key>Frutigen Ried</key>
+		<integer>4310</integer>
+		<key>Frutigen Rohrbach</key>
+		<integer>4426</integer>
+		<key>Frutigen Rustica</key>
+		<integer>4487</integer>
+		<key>Frutigen Spital</key>
+		<integer>4321</integer>
+		<key>Frutigen Widi</key>
+		<integer>4434</integer>
+		<key>Frutigen Winklen</key>
+		<integer>4435</integer>
+		<key>Fultigen Abzw.</key>
+		<integer>1173</integer>
+		<key>Fährstrasse</key>
+		<integer>164</integer>
+	</dict>
+	<key>G</key>
+	<dict>
+		<key>G'höchstetten An-Mo Zentrum</key>
+		<integer>1215</integer>
+		<key>Galgenfeld</key>
+		<integer>109</integer>
+		<key>Garten-Center</key>
+		<integer>3000</integer>
+		<key>Gartenstrasse</key>
+		<integer>13</integer>
+		<key>Gasel Bahnhof</key>
+		<integer>4043</integer>
+		<key>Gassacker</key>
+		<integer>1086</integer>
+		<key>Gehlismatt</key>
+		<integer>1218</integer>
+		<key>Gehracher</key>
+		<integer>1509</integer>
+		<key>Geisshubel</key>
+		<integer>3103</integer>
+		<key>Gempenach Dorf</key>
+		<integer>1188</integer>
+		<key>Gerlafingen Dorfzentrum</key>
+		<integer>4126</integer>
+		<key>Gerlafingen Eisenhammer</key>
+		<integer>4470</integer>
+		<key>Gerlafingen Sonnenfeld</key>
+		<integer>4471</integer>
+		<key>Gerolfingen Bahnhof</key>
+		<integer>4101</integer>
+		<key>Gerzensee Bären</key>
+		<integer>1190</integer>
+		<key>Gerzensee Post</key>
+		<integer>1191</integer>
+		<key>Gerzensee Thalgut</key>
+		<integer>1193</integer>
+		<key>Gerzensee Waldegg</key>
+		<integer>1195</integer>
+		<key>Gewerbeschule</key>
+		<integer>141</integer>
+		<key>Goldbach BE Sonnhalde</key>
+		<integer>1201</integer>
+		<key>Goldswil Dorf</key>
+		<integer>4241</integer>
+		<key>Goldswil Parkhotel</key>
+		<integer>4242</integer>
+		<key>Gossliwil Post</key>
+		<integer>1203</integer>
+		<key>Grafenried</key>
+		<integer>3114</integer>
+		<key>Grauholzstrasse</key>
+		<integer>3213</integer>
+		<key>Grenchen Brücke</key>
+		<integer>4459</integer>
+		<key>Grenchen Florastrasse</key>
+		<integer>4458</integer>
+		<key>Grenchen Flurstrasse Nord</key>
+		<integer>4455</integer>
+		<key>Grenchen Flurstrasse Süd</key>
+		<integer>4387</integer>
+		<key>Grenchen Mattenstrasse</key>
+		<integer>4386</integer>
+		<key>Grenchen Mc Donald's</key>
+		<integer>4457</integer>
+		<key>Grenchen Monbijou</key>
+		<integer>4179</integer>
+		<key>Grenchen Postplatz</key>
+		<integer>4118</integer>
+		<key>Grenchen Postplatz Süd</key>
+		<integer>4390</integer>
+		<key>Grenchen Reibenstrasse</key>
+		<integer>4489</integer>
+		<key>Grenchen Sonnmatt</key>
+		<integer>4389</integer>
+		<key>Grenchen Spital</key>
+		<integer>4456</integer>
+		<key>Grenchen Süd Bahnhof</key>
+		<integer>4119</integer>
+		<key>Grindelwald Bahnhof</key>
+		<integer>4226</integer>
+		<key>Grindelwald Firstbahn</key>
+		<integer>4356</integer>
+		<key>Grosshöchstetten Bahnhof</key>
+		<integer>1210</integer>
+		<key>Grosshöchstetten Talacker</key>
+		<integer>1216</integer>
+		<key>Grächwil</key>
+		<integer>1084</integer>
+		<key>Grünenmatt Dorfmitte</key>
+		<integer>4028</integer>
+		<key>Gsteigwiler Dorf</key>
+		<integer>4231</integer>
+		<key>Guetmatt</key>
+		<integer>189</integer>
+		<key>Guggisberg Kalchstätten</key>
+		<integer>1219</integer>
+		<key>Guggisberg Kirchhalten</key>
+		<integer>1816</integer>
+		<key>Guggisberg Multernboden</key>
+		<integer>1716</integer>
+		<key>Guggisberg Post</key>
+		<integer>1220</integer>
+		<key>Guggisberg Sand</key>
+		<integer>1221</integer>
+		<key>Guisanplatz Expo</key>
+		<integer>57</integer>
+		<key>Gurbrü Dorf</key>
+		<integer>1223</integer>
+		<key>Gurnigel Bad</key>
+		<integer>1229</integer>
+		<key>Gurnigel Berghaus</key>
+		<integer>1230</integer>
+		<key>Gurnigel Gantrischhütte</key>
+		<integer>1231</integer>
+		<key>Gurnigel Stierenhütte</key>
+		<integer>1232</integer>
+		<key>Gurten-Gartenstadt</key>
+		<integer>14</integer>
+		<key>Gurtenbahn</key>
+		<integer>60</integer>
+		<key>Gurzelen Kreuz</key>
+		<integer>4010</integer>
+		<key>Gäbelbach</key>
+		<integer>99</integer>
+		<key>Gümligen Bahnhof (Bus)</key>
+		<integer>3036</integer>
+		<key>Gümligenfeld</key>
+		<integer>3110</integer>
+		<key>Gümmenen Bahnhof</key>
+		<integer>1377</integer>
+		<key>Gümmenen Dorf</key>
+		<integer>1379</integer>
+		<key>Güterbahnhof</key>
+		<integer>66</integer>
+	</dict>
+	<key>H</key>
+	<dict>
+		<key>Hagneck Bahnhof</key>
+		<integer>4099</integer>
+		<key>Halen</key>
+		<integer>3125</integer>
+		<key>Halenbrücke</key>
+		<integer>1260</integer>
+		<key>Hallenbad</key>
+		<integer>3019</integer>
+		<key>Hallmattstrasse</key>
+		<integer>190</integer>
+		<key>Hardegg Vidmar</key>
+		<integer>162</integer>
+		<key>Hasle-Rüegsau Bahnhof</key>
+		<integer>4247</integer>
+		<key>Hasler</key>
+		<integer>43</integer>
+		<key>Heggidorn</key>
+		<integer>1236</integer>
+		<key>Heimenhaus</key>
+		<integer>1312</integer>
+		<key>Heimenhausen Post</key>
+		<integer>4061</integer>
+		<key>Heimenhausen Riedgasse</key>
+		<integer>4325</integer>
+		<key>Helgisried Lauimatt</key>
+		<integer>1238</integer>
+		<key>Helgisried-Rohrbach Post</key>
+		<integer>1239</integer>
+		<key>Hellsau Dorfmitte</key>
+		<integer>4052</integer>
+		<key>Hengstsense</key>
+		<integer>1595</integer>
+		<key>Henkerbrünnli</key>
+		<integer>69</integer>
+		<key>Hermrigen Dorf</key>
+		<integer>1243</integer>
+		<key>Hermrigen Friedhof</key>
+		<integer>1242</integer>
+		<key>Herrenschwanden  Mööslimatt</key>
+		<integer>1245</integer>
+		<key>Herrenschwanden Dorf</key>
+		<integer>1266</integer>
+		<key>Herrenschwanden Möösliweg</key>
+		<integer>4012</integer>
+		<key>Herzogenbuchsee Bahnhof</key>
+		<integer>4055</integer>
+		<key>Herzogenbuchsee Friedhof</key>
+		<integer>4225</integer>
+		<key>Herzogenbuchsee Jurablick</key>
+		<integer>4323</integer>
+		<key>Herzogenbuchsee Sonnenplatz</key>
+		<integer>4056</integer>
+		<key>Hessigkofen Post</key>
+		<integer>1246</integer>
+		<key>Hessstrasse</key>
+		<integer>120</integer>
+		<key>Hindelbank Bahnhof</key>
+		<integer>1249</integer>
+		<key>Hindelbank Brunnenhof</key>
+		<integer>1250</integer>
+		<key>Hindelbank Post</key>
+		<integer>1251</integer>
+		<key>Hinterkappelen Bernstrasse</key>
+		<integer>1354</integer>
+		<key>Hinterkappelen Post</key>
+		<integer>1257</integer>
+		<key>Hirschen</key>
+		<integer>3001</integer>
+		<key>Hirschengraben</key>
+		<integer>35</integer>
+		<key>Hirzenfeld</key>
+		<integer>3104</integer>
+		<key>Hofland</key>
+		<integer>1404</integer>
+		<key>Hofstetten b Brienz Dorfpl.</key>
+		<integer>4260</integer>
+		<key>Hofwilstrasse</key>
+		<integer>3128</integer>
+		<key>Hohliebe</key>
+		<integer>7</integer>
+		<key>Hohliebi</key>
+		<integer>183</integer>
+		<key>Hohrain</key>
+		<integer>3086</integer>
+		<key>Holenacker</key>
+		<integer>101</integer>
+		<key>Horriwil Oberdorf</key>
+		<integer>4478</integer>
+		<key>Horriwil Post</key>
+		<integer>4134</integer>
+		<key>Horriwil Unterdorf</key>
+		<integer>4477</integer>
+		<key>Hubel</key>
+		<integer>3075</integer>
+		<key>Höchstetten Post</key>
+		<integer>4051</integer>
+		<key>Hübeli</key>
+		<integer>1165</integer>
+		<key>Hübeliweg</key>
+		<integer>3068</integer>
+		<key>Hüniken</key>
+		<integer>4135</integer>
+		<key>Hüslimoos</key>
+		<integer>3060</integer>
+	</dict>
+	<key>I</key>
+	<dict>
+		<key>Ichertswil alte Post</key>
+		<integer>1268</integer>
+		<key>Illiswil</key>
+		<integer>1362</integer>
+		<key>Inkwil Bahnhof</key>
+		<integer>4479</integer>
+		<key>Inkwil Dorf</key>
+		<integer>4138</integer>
+		<key>Innerberg Bergweid</key>
+		<integer>1368</integer>
+		<key>Innerberg Dorf</key>
+		<integer>4011</integer>
+		<key>Innerberg Weidhaus</key>
+		<integer>1370</integer>
+		<key>Innere Enge</key>
+		<integer>147</integer>
+		<key>Ins Bahnhof</key>
+		<integer>1271</integer>
+		<key>Ins Brennerei</key>
+		<integer>1272</integer>
+		<key>Ins Dorf</key>
+		<integer>1273</integer>
+		<key>Ins West</key>
+		<integer>1256</integer>
+		<key>Inselspital</key>
+		<integer>64</integer>
+		<key>Interlaken Drei Tannen</key>
+		<integer>4240</integer>
+		<key>Interlaken Kursaal</key>
+		<integer>4239</integer>
+		<key>Interlaken Ost Bahnhof</key>
+		<integer>4236</integer>
+		<key>Interlaken Postplatz</key>
+		<integer>4418</integer>
+		<key>Interlaken West Bahnhof</key>
+		<integer>4199</integer>
+		<key>Interlaken Zentralplatz</key>
+		<integer>4235</integer>
+		<key>Ipsach Bahnweg</key>
+		<integer>4480</integer>
+		<key>Ittigen Bahnhof</key>
+		<integer>3046</integer>
+		<key>Ittigenstrasse</key>
+		<integer>3049</integer>
+	</dict>
+	<key>J</key>
+	<dict>
+		<key>Jegenstorf</key>
+		<integer>3127</integer>
+		<key>Jetschwil</key>
+		<integer>4068</integer>
+		<key>Jetzikofenstr.</key>
+		<integer>1313</integer>
+		<key>Jurablick</key>
+		<integer>12</integer>
+		<key>Juraweg</key>
+		<integer>1444</integer>
+	</dict>
+	<key>K</key>
+	<dict>
+		<key>Ka-We-De</key>
+		<integer>130</integer>
+		<key>Kapellenweg</key>
+		<integer>1445</integer>
+		<key>Kappelen Kirche</key>
+		<integer>1287</integer>
+		<key>Kappelenring Nord</key>
+		<integer>1289</integer>
+		<key>Kappelenring Ost</key>
+		<integer>1290</integer>
+		<key>Kappelenring West</key>
+		<integer>1291</integer>
+		<key>Kappelisacker</key>
+		<integer>3055</integer>
+		<key>Kasernenstrasse</key>
+		<integer>3006</integer>
+		<key>Kaufdorf Bahnhof</key>
+		<integer>1292</integer>
+		<key>Kaufmännischer Verband</key>
+		<integer>37</integer>
+		<key>Kehrsatz Bahnhof</key>
+		<integer>1294</integer>
+		<key>Kehrsatz Rössli</key>
+		<integer>1295</integer>
+		<key>Kehrsatz Tannacker</key>
+		<integer>1296</integer>
+		<key>Kerzers Bahnhof</key>
+		<integer>1300</integer>
+		<key>Kettenschmiede</key>
+		<integer>1578</integer>
+		<key>Kipfgasse</key>
+		<integer>3061</integer>
+		<key>Kirchberg Wydenhof</key>
+		<integer>4488</integer>
+		<key>Kirchberg-Alchenflüh Bahnhof</key>
+		<integer>4046</integer>
+		<key>Kirchdorf BE Langete</key>
+		<integer>1306</integer>
+		<key>Kirchdorf BE Post</key>
+		<integer>1307</integer>
+		<key>Kirche</key>
+		<integer>3062</integer>
+		<key>Kirchenthurnen Abzw.</key>
+		<integer>1308</integer>
+		<key>Kirchenthurnen Dorf</key>
+		<integer>4003</integer>
+		<key>Kirchlindach Friedhof</key>
+		<integer>1311</integer>
+		<key>Kirchlindach Post</key>
+		<integer>1314</integer>
+		<key>Klein-Wabern</key>
+		<integer>240</integer>
+		<key>Kocherpark</key>
+		<integer>36</integer>
+		<key>Konolfingen Bahnhof</key>
+		<integer>310</integer>
+		<key>Konolfingen Dorf</key>
+		<integer>385</integer>
+		<key>Konolfingen Grünegg</key>
+		<integer>371</integer>
+		<key>Konolfingen Haldenweg</key>
+		<integer>340</integer>
+		<key>Konolfingen Ursellen</key>
+		<integer>341</integer>
+		<key>Koppigen Dorf</key>
+		<integer>1112</integer>
+		<key>Koppigen Post</key>
+		<integer>4050</integer>
+		<key>Koppigen Schwimmbad</key>
+		<integer>1105</integer>
+		<key>Koppigen Sternen</key>
+		<integer>4180</integer>
+		<key>Koppigen Stöck</key>
+		<integer>1107</integer>
+		<key>Kreuz</key>
+		<integer>3105</integer>
+		<key>Kreuzplatz/Place de la Croix</key>
+		<integer>1786</integer>
+		<key>Kreuzweg</key>
+		<integer>3215</integer>
+		<key>Kriegstetten Dorfplatz</key>
+		<integer>4129</integer>
+		<key>Kriegstetten Subingenstrasse</key>
+		<integer>4472</integer>
+		<key>Kräyigen</key>
+		<integer>3069</integer>
+		<key>Kunoweg</key>
+		<integer>152</integer>
+		<key>Kursaal</key>
+		<integer>52</integer>
+		<key>Kyburg Bad</key>
+		<integer>1331</integer>
+		<key>Käserei</key>
+		<integer>1496</integer>
+		<key>Köniz Bahnhof</key>
+		<integer>263</integer>
+		<key>Köniz Leen</key>
+		<integer>225</integer>
+		<key>Köniz Schliern</key>
+		<integer>128</integer>
+		<key>Köniz Schloss</key>
+		<integer>125</integer>
+		<key>Köniz Weiermatt</key>
+		<integer>228</integer>
+		<key>Köniz Zentrum</key>
+		<integer>124</integer>
+		<key>Kühlewil Heim</key>
+		<integer>1327</integer>
+		<key>Küttigkofen Dorf</key>
+		<integer>1329</integer>
+	</dict>
+	<key>L</key>
+	<dict>
+		<key>La Heutte Boccalino</key>
+		<integer>4197</integer>
+		<key>La Neuveville poste</key>
+		<integer>1334</integer>
+		<key>Landiswil  Bärisbach</key>
+		<integer>1335</integer>
+		<key>Landiswil Dorf</key>
+		<integer>1336</integer>
+		<key>Landiswil Hinteregg</key>
+		<integer>1337</integer>
+		<key>Landorf</key>
+		<integer>226</integer>
+		<key>Langanu i. E. Bahnhof</key>
+		<integer>4144</integer>
+		<key>Langendorf Chutz</key>
+		<integer>4443</integer>
+		<key>Langendorf Ladendorf</key>
+		<integer>4111</integer>
+		<key>Langendorf Sunnerain</key>
+		<integer>4444</integer>
+		<key>Langenloh</key>
+		<integer>3056</integer>
+		<key>Langenthal Bahnhof</key>
+		<integer>4058</integer>
+		<key>Langenthal Dreilinden</key>
+		<integer>4300</integer>
+		<key>Langenthal Zelgli</key>
+		<integer>4322</integer>
+		<key>Langnau i.E. Bernstrasse</key>
+		<integer>4365</integer>
+		<key>Langnau i.E. Gerbeplatz</key>
+		<integer>4367</integer>
+		<key>Langnau i.E. Hinterdorf Mühle</key>
+		<integer>4368</integer>
+		<key>Langnau i.E. Hotel Emmental</key>
+		<integer>4366</integer>
+		<key>Langnau i.E. Ilfis</key>
+		<integer>4364</integer>
+		<key>Langnau i.E. Sonnweg</key>
+		<integer>4369</integer>
+		<key>Lanthen Abzw.</key>
+		<integer>4065</integer>
+		<key>Lanzenhäusern Bahnhof</key>
+		<integer>1338</integer>
+		<key>Lattrigen Bahnhof</key>
+		<integer>4103</integer>
+		<key>Laupen Bahnhof</key>
+		<integer>1344</integer>
+		<key>Lauterbrunnen Bahnhof</key>
+		<integer>4238</integer>
+		<key>Leimen</key>
+		<integer>1503</integer>
+		<key>Leimere b. Mühleberg</key>
+		<integer>1351</integer>
+		<key>Lengnau BE Gemeindehaus</key>
+		<integer>4385</integer>
+		<key>Lengnau BE Schulhaus Dorf</key>
+		<integer>4178</integer>
+		<key>Lerbermatt</key>
+		<integer>231</integer>
+		<key>Leuzigen Dezaley</key>
+		<integer>4461</integer>
+		<key>Leuzigen Schulhaus</key>
+		<integer>4121</integer>
+		<key>Liebefeld Park</key>
+		<integer>129</integer>
+		<key>Liebegg</key>
+		<integer>79</integer>
+		<key>Ligerz Bahnhof</key>
+		<integer>4098</integer>
+		<key>Linde</key>
+		<integer>3042</integer>
+		<key>Lindenburg</key>
+		<integer>3020</integer>
+		<key>Lindenweg</key>
+		<integer>3063</integer>
+		<key>Lobsigen Post</key>
+		<integer>1140</integer>
+		<key>Lochpinte</key>
+		<integer>1293</integer>
+		<key>Lohn-Ammannsegg Alte Schmitte</key>
+		<integer>3145</integer>
+		<key>Lohn-Ammannsegg Kirche</key>
+		<integer>4468</integer>
+		<key>Lohn-Lüterkofen Bahnhof</key>
+		<integer>1363</integer>
+		<key>Lohnstorf DorfDorf</key>
+		<integer>4004</integer>
+		<key>Lommiswil Kirche</key>
+		<integer>4113</integer>
+		<key>Lorraine</key>
+		<integer>142</integer>
+		<key>Loryplatz</key>
+		<integer>90</integer>
+		<key>Louelemoos</key>
+		<integer>1467</integer>
+		<key>Luisenstrasse</key>
+		<integer>27</integer>
+		<key>Luternauweg</key>
+		<integer>137</integer>
+		<key>Lutertal</key>
+		<integer>3021</integer>
+		<key>Lyss Bahnhof</key>
+		<integer>1054</integer>
+		<key>Lyss Bären</key>
+		<integer>4016</integer>
+		<key>Lyss Hirschenplatz</key>
+		<integer>1771</integer>
+		<key>Lyss Industriezone Bernstr.</key>
+		<integer>1063</integer>
+		<key>Lyss KUFA</key>
+		<integer>4499</integer>
+		<key>Lyss Lehn</key>
+		<integer>1380</integer>
+		<key>Lyss Lyssbachpark</key>
+		<integer>1793</integer>
+		<key>Lyss Parkschwimmbad</key>
+		<integer>1792</integer>
+		<key>Lyss Seelandhalle</key>
+		<integer>1062</integer>
+		<key>Lyss Stigli</key>
+		<integer>1384</integer>
+		<key>Lyssach Kreuz</key>
+		<integer>4018</integer>
+		<key>Länggasse</key>
+		<integer>87</integer>
+		<key>Längägerten</key>
+		<integer>1166</integer>
+		<key>Läuferplatz</key>
+		<integer>328</integer>
+		<key>Löchligut</key>
+		<integer>3007</integer>
+		<key>Lüscherz Bahnhof</key>
+		<integer>1367</integer>
+		<key>Lüscherz Dorf</key>
+		<integer>1369</integer>
+		<key>Lüscherz Post</key>
+		<integer>1371</integer>
+		<key>Lüscherz Riedmatte</key>
+		<integer>1373</integer>
+		<key>Lüsslingen Hohberg</key>
+		<integer>4462</integer>
+		<key>Lüsslingen Käserei</key>
+		<integer>4123</integer>
+		<key>Lüterkofen Dorf</key>
+		<integer>1374</integer>
+		<key>Lüterswil Dorf</key>
+		<integer>1375</integer>
+		<key>Lütschental Gemeindehaus</key>
+		<integer>4413</integer>
+		<key>Lützelflüh-Goldbach Bahnhof</key>
+		<integer>1376</integer>
+	</dict>
+	<key>M</key>
+	<dict>
+		<key>Malleray-Bévilard gare</key>
+		<integer>4190</integer>
+		<key>Mamishaus Abzw. Borbezried</key>
+		<integer>1385</integer>
+		<key>Mamishaus Dorf</key>
+		<integer>1386</integer>
+		<key>Mamishaus Hostatt</key>
+		<integer>1387</integer>
+		<key>Mamishaus Wengerli</key>
+		<integer>1389</integer>
+		<key>Mannenberg</key>
+		<integer>3214</integer>
+		<key>Manuelstrasse</key>
+		<integer>138</integer>
+		<key>Mariahilf</key>
+		<integer>4069</integer>
+		<key>Markuskirche</key>
+		<integer>145</integer>
+		<key>Marzilistrasse</key>
+		<integer>278</integer>
+		<key>Matten b. I. Gsteigstrasse</key>
+		<integer>4417</integer>
+		<key>Matten b. I. Hotel Sonne</key>
+		<integer>4234</integer>
+		<key>Mattstetten</key>
+		<integer>3057</integer>
+		<key>Meikirch Feld</key>
+		<integer>1392</integer>
+		<key>Meikirch Käserei</key>
+		<integer>1090</integer>
+		<key>Meikirch Post</key>
+		<integer>1395</integer>
+		<key>Meinisberg Dorfplatz</key>
+		<integer>4287</integer>
+		<key>Meinisberg Niesenstrasse</key>
+		<integer>4286</integer>
+		<key>Meinisberg Rosenweg</key>
+		<integer>4288</integer>
+		<key>Meinisberg Rütti</key>
+		<integer>4289</integer>
+		<key>Meiringen Bahnhof</key>
+		<integer>4264</integer>
+		<key>Meiringen Isenbolgen</key>
+		<integer>4263</integer>
+		<key>Meisenweg</key>
+		<integer>3038</integer>
+		<key>Melchenbühl</key>
+		<integer>3058</integer>
+		<key>Menziswil</key>
+		<integer>4073</integer>
+		<key>Messen Gemeindehaus</key>
+		<integer>1399</integer>
+		<key>Metzgerhüsi</key>
+		<integer>1402</integer>
+		<key>Milken Dorf</key>
+		<integer>1403</integer>
+		<key>Milken Steinern</key>
+		<integer>1405</integer>
+		<key>Milken Zumholz</key>
+		<integer>1406</integer>
+		<key>Mittelhäusern Aekenmatt Dorf</key>
+		<integer>4039</integer>
+		<key>Mittelhäusern Bahnhof</key>
+		<integer>4041</integer>
+		<key>Mittelstrasse</key>
+		<integer>85</integer>
+		<key>Monbijou</key>
+		<integer>2</integer>
+		<key>Moos Bahnhof</key>
+		<integer>4044</integer>
+		<key>Moosegg Hotel</key>
+		<integer>1408</integer>
+		<key>Moosseedorf</key>
+		<integer>3116</integer>
+		<key>Morgartenstrasse</key>
+		<integer>146</integer>
+		<key>Morillon</key>
+		<integer>232</integer>
+		<key>Moutier Cité Ste-Marie</key>
+		<integer>4396</integer>
+		<key>Moutier Suisse Ouest</key>
+		<integer>4394</integer>
+		<key>Moutier gare</key>
+		<integer>4187</integer>
+		<key>Mullen Dorf</key>
+		<integer>1422</integer>
+		<key>Muntelier Expodrom</key>
+		<integer>4156</integer>
+		<key>Muntelier Raffort</key>
+		<integer>4159</integer>
+		<key>Muntelier Schloss</key>
+		<integer>4158</integer>
+		<key>Muntelier-Löwenberg Station</key>
+		<integer>4157</integer>
+		<key>Munzinger</key>
+		<integer>41</integer>
+		<key>Muri</key>
+		<integer>3067</integer>
+		<key>Muri Villette</key>
+		<integer>3200</integer>
+		<key>Murten Bahnhof</key>
+		<integer>4161</integer>
+		<key>Murten Löwenberg Stöckli</key>
+		<integer>4163</integer>
+		<key>Murten Prehl Burgunderstrass</key>
+		<integer>4162</integer>
+		<key>Murten Rest. Des Bains</key>
+		<integer>4160</integer>
+		<key>Murzelen Dorf</key>
+		<integer>1364</integer>
+		<key>Murzelen Sandbühl</key>
+		<integer>1366</integer>
+		<key>Mätteli</key>
+		<integer>3064</integer>
+		<key>Mörigen Bahnhof</key>
+		<integer>4102</integer>
+		<key>Möriswil Abzw.</key>
+		<integer>1409</integer>
+		<key>Mösli</key>
+		<integer>1309</integer>
+		<key>Mösliweg</key>
+		<integer>227</integer>
+		<key>Mühleberg Dorf</key>
+		<integer>1411</integer>
+		<key>Mühleberg Post</key>
+		<integer>1413</integer>
+		<key>Mühleberg Säge</key>
+		<integer>1414</integer>
+		<key>Mühlebergwerk</key>
+		<integer>1172</integer>
+		<key>Mühledorf Dorf</key>
+		<integer>1415</integer>
+		<key>Mühledorf Kirche</key>
+		<integer>1417</integer>
+		<key>Mühledorf Rüsch</key>
+		<integer>1416</integer>
+		<key>Mühlenplatz</key>
+		<integer>276</integer>
+		<key>Mühleplatz</key>
+		<integer>1070</integer>
+		<key>Mühlestrasse</key>
+		<integer>1609</integer>
+		<key>Mühlethal</key>
+		<integer>1108</integer>
+		<key>Mühlethurnen Adler</key>
+		<integer>1419</integer>
+		<key>Mühlethurnen Pontel</key>
+		<integer>1310</integer>
+		<key>Mühlethurnen Post</key>
+		<integer>1420</integer>
+		<key>Mülenen Suldbrücke</key>
+		<integer>4317</integer>
+		<key>Müliacher</key>
+		<integer>2027</integer>
+		<key>Münchenbuchsee Buechlimatt</key>
+		<integer>1423</integer>
+		<key>Münchenbuchsee Dorf</key>
+		<integer>1424</integer>
+		<key>Münchenbuchsee Sagi</key>
+		<integer>1427</integer>
+		<key>Münsingen Aeschistrasse</key>
+		<integer>1429</integer>
+		<key>Münsingen Badi</key>
+		<integer>1432</integer>
+		<key>Münsingen Bahnhof</key>
+		<integer>301</integer>
+		<key>Münsingen Chäsi</key>
+		<integer>1438</integer>
+		<key>Münsingen Finkenweg</key>
+		<integer>342</integer>
+		<key>Münsingen Friedhof</key>
+		<integer>304</integer>
+		<key>Münsingen Höheacker</key>
+		<integer>337</integer>
+		<key>Münsingen Industrie/USM</key>
+		<integer>1443</integer>
+		<key>Münsingen Krankenhausweg</key>
+		<integer>343</integer>
+		<key>Münsingen Lindenweg</key>
+		<integer>1197</integer>
+		<key>Münsingen Neuhaus</key>
+		<integer>1448</integer>
+		<key>Münsingen Ochsen</key>
+		<integer>345</integer>
+		<key>Münsingen Schwand</key>
+		<integer>346</integer>
+		<key>Münsingen Schöneggweg</key>
+		<integer>1453</integer>
+		<key>Münsingen Spital</key>
+		<integer>368</integer>
+		<key>Münsingen Traube</key>
+		<integer>344</integer>
+		<key>Müntschemier Dorf</key>
+		<integer>4301</integer>
+	</dict>
+	<key>N</key>
+	<dict>
+		<key>Nennigkofen Rössli</key>
+		<integer>4122</integer>
+		<key>Neuenegg Bahnhof</key>
+		<integer>1464</integer>
+		<key>Neufeld P+R</key>
+		<integer>166</integer>
+		<key>Neuhausplatz</key>
+		<integer>122</integer>
+		<key>Neumattweg</key>
+		<integer>324</integer>
+		<key>Nidau Bahnhof</key>
+		<integer>4400</integer>
+		<key>Nidau Beunden</key>
+		<integer>1470</integer>
+		<key>Nidau Friedhof Schürlirain</key>
+		<integer>1472</integer>
+		<key>Nidau Guglerstr./Rue Gugler</key>
+		<integer>4403</integer>
+		<key>Nidau Kirche</key>
+		<integer>1473</integer>
+		<key>Nidau Milanweg</key>
+		<integer>4106</integer>
+		<key>Nidau Ruferheim</key>
+		<integer>4293</integer>
+		<key>Nidau Schloss/Ch\U00e2teau</key>
+		<integer>4401</integer>
+		<key>Niederbipp Braui-Kreisel</key>
+		<integer>4089</integer>
+		<key>Niederbottigen</key>
+		<integer>373</integer>
+		<key>Niedermuhlern Bachmühle</key>
+		<integer>1478</integer>
+		<key>Niedermuhlern Baumgärtli</key>
+		<integer>1481</integer>
+		<key>Niedermuhlern Käserei</key>
+		<integer>1480</integer>
+		<key>Niederried b. I'laken Dorf</key>
+		<integer>4252</integer>
+		<key>Niederscherli Farnerstrasse</key>
+		<integer>4042</integer>
+		<key>Niederscherli Zentrum</key>
+		<integer>1839</integer>
+		<key>Niederwangen Bahnhof</key>
+		<integer>181</integer>
+		<key>Niederwangen Ried</key>
+		<integer>224</integer>
+		<key>Niederönz Eggen</key>
+		<integer>4482</integer>
+		<key>Niederönz Hirschen</key>
+		<integer>4481</integer>
+		<key>Niederönz Post</key>
+		<integer>4140</integer>
+		<key>Nydegg</key>
+		<integer>77</integer>
+	</dict>
+	<key>O</key>
+	<dict>
+		<key>Oberbalm Bach</key>
+		<integer>1477</integer>
+		<key>Oberbalm Dorf</key>
+		<integer>1485</integer>
+		<key>Oberbipp Eintracht</key>
+		<integer>4088</integer>
+		<key>Oberbottigen Dorf</key>
+		<integer>375</integer>
+		<key>Oberburg Pfisternstrasse</key>
+		<integer>4245</integer>
+		<key>Oberburg Post</key>
+		<integer>4026</integer>
+		<key>Oberburg Schulstrasse</key>
+		<integer>4244</integer>
+		<key>Oberburg Ziegelgut</key>
+		<integer>4246</integer>
+		<key>Oberbütschel</key>
+		<integer>1488</integer>
+		<key>Oberdettigen</key>
+		<integer>1489</integer>
+		<key>Oberdorf</key>
+		<integer>1288</integer>
+		<key>Oberdorf SO Dorfplatz</key>
+		<integer>4446</integer>
+		<key>Oberdorf SO Endhalt</key>
+		<integer>4112</integer>
+		<key>Oberdorf SO Mühlebrücke</key>
+		<integer>4445</integer>
+		<key>Oberei b. Mühleberg</key>
+		<integer>1490</integer>
+		<key>Oberer Gurnigel</key>
+		<integer>1491</integer>
+		<key>Oberfeld</key>
+		<integer>115</integer>
+		<key>Obergerlafingen Dorf</key>
+		<integer>4127</integer>
+		<key>Obergoldbach Abzw. Landiswil</key>
+		<integer>1492</integer>
+		<key>Obergoldbach Längacker</key>
+		<integer>1493</integer>
+		<key>Obergoldbach Post</key>
+		<integer>1494</integer>
+		<key>Oberramsern</key>
+		<integer>1498</integer>
+		<key>Oberried/Brienzersee Bahnhof</key>
+		<integer>4253</integer>
+		<key>Oberscherli Dorf</key>
+		<integer>1500</integer>
+		<key>Oberschwanden</key>
+		<integer>4259</integer>
+		<key>Oberwangen b. Bern Friedhof</key>
+		<integer>4105</integer>
+		<key>Oberwohlen BE</key>
+		<integer>1507</integer>
+		<key>Oberönz Kreuzstr.-Burgäschi</key>
+		<integer>4205</integer>
+		<key>Oberönz Moos</key>
+		<integer>4224</integer>
+		<key>Oberönz Restaurant Kreuz</key>
+		<integer>4054</integer>
+		<key>Orpund Byfang</key>
+		<integer>4278</integer>
+		<key>Orpund Bürenstrasse</key>
+		<integer>4279</integer>
+		<key>Orpund Neumatt</key>
+		<integer>4275</integer>
+		<key>Orpund Post</key>
+		<integer>4277</integer>
+		<key>Orpund Zumbach</key>
+		<integer>4276</integer>
+		<key>Ortschwaben Schulhaus</key>
+		<integer>1072</integer>
+		<key>Ortschwaben Schützenrain</key>
+		<integer>1080</integer>
+		<key>Ostermundigen Bahnhof</key>
+		<integer>112</integer>
+		<key>Ostermundigen Rüti</key>
+		<integer>116</integer>
+		<key>Ostring</key>
+		<integer>50</integer>
+	</dict>
+	<key>P</key>
+	<dict>
+		<key>PZM</key>
+		<integer>1446</integer>
+		<key>PZM West</key>
+		<integer>2026</integer>
+		<key>Papiermühle</key>
+		<integer>3077</integer>
+		<key>Parkstrasse</key>
+		<integer>56</integer>
+		<key>Pestalozzi</key>
+		<integer>40</integer>
+		<key>Petruskirche</key>
+		<integer>135</integer>
+		<key>Pflegeheim</key>
+		<integer>1150</integer>
+		<key>Pieterlen Gemeindehaus</key>
+		<integer>4176</integer>
+		<key>Pieterlen Industrie West</key>
+		<integer>4383</integer>
+		<key>Pieterlen Schlössli</key>
+		<integer>4384</integer>
+		<key>Pieterlen Schulhaus</key>
+		<integer>4175</integer>
+		<key>Pieterlen Südstrasse</key>
+		<integer>4177</integer>
+		<key>Plaffeien Dorf</key>
+		<integer>1521</integer>
+		<key>Plaffeien Schaferli</key>
+		<integer>1519</integer>
+		<key>Platane</key>
+		<integer>3087</integer>
+		<key>Pontenet gare</key>
+		<integer>4191</integer>
+		<key>Port Spittel</key>
+		<integer>4108</integer>
+		<key>Post Wendeplatz</key>
+		<integer>1700</integer>
+		<key>Postgasse</key>
+		<integer>1076</integer>
+	</dict>
+	<key>R</key>
+	<dict>
+		<key>Radelfingen Dorf</key>
+		<integer>1106</integer>
+		<key>Radelfingen b. A.  Salzmatt</key>
+		<integer>1104</integer>
+		<key>Ramsei Bahnhof</key>
+		<integer>4027</integer>
+		<key>Ramuzstrasse</key>
+		<integer>170</integer>
+		<key>Rathaus</key>
+		<integer>76</integer>
+		<key>Recherswil Dorf</key>
+		<integer>4128</integer>
+		<key>Reckholtern</key>
+		<integer>3023</integer>
+		<key>Reconvilier FMB</key>
+		<integer>4397</integer>
+		<key>Reconvilier gare</key>
+		<integer>4192</integer>
+		<key>Reichenbach i. K. Bahnhof</key>
+		<integer>4316</integer>
+		<key>Reichenbach i. K. Buchholz</key>
+		<integer>4315</integer>
+		<key>Restaurant Brücke</key>
+		<integer>1160</integer>
+		<key>Reuchenette-Péry gare</key>
+		<integer>4198</integer>
+		<key>Richigen Abzw. Lochi</key>
+		<integer>1549</integer>
+		<key>Richigen Dorf</key>
+		<integer>1552</integer>
+		<key>Richigen Graben</key>
+		<integer>1550</integer>
+		<key>Ried b. Kerzers Widalmi</key>
+		<integer>4502</integer>
+		<key>Ried bei Worb</key>
+		<integer>1555</integer>
+		<key>Riedbach Bahnhof</key>
+		<integer>369</integer>
+		<key>Riedbachstrasse</key>
+		<integer>253</integer>
+		<key>Riedernrain</key>
+		<integer>1047</integer>
+		<key>Riedhaus</key>
+		<integer>1558</integer>
+		<key>Riedholz Bahnhof</key>
+		<integer>4084</integer>
+		<key>Riedstätt Post</key>
+		<integer>1560</integer>
+		<key>Riedstätt ob dem Wald</key>
+		<integer>1559</integer>
+		<key>Riffenmatt Giebel</key>
+		<integer>1561</integer>
+		<key>Riffenmatt Kreuzung</key>
+		<integer>1562</integer>
+		<key>Riffenmatt Neuenmatt</key>
+		<integer>1563</integer>
+		<key>Riffenmatt Schwendi</key>
+		<integer>1564</integer>
+		<key>Riggisberg Graben</key>
+		<integer>1566</integer>
+		<key>Riggisberg Hasli</key>
+		<integer>1567</integer>
+		<key>Riggisberg Otzenbach</key>
+		<integer>1568</integer>
+		<key>Riggisberg Post</key>
+		<integer>1569</integer>
+		<key>Riggisberg Spital</key>
+		<integer>1570</integer>
+		<key>RiggisbergBeissern</key>
+		<integer>1393</integer>
+		<key>Ringgenberg Anhöhe-Burgseeli</key>
+		<integer>4243</integer>
+		<key>Ringgenberg Post</key>
+		<integer>4250</integer>
+		<key>Ringgenberg Säge</key>
+		<integer>4251</integer>
+		<key>Rizenbach Lerchenhubel</key>
+		<integer>4501</integer>
+		<key>Rizenbach Ofenhausstrasse</key>
+		<integer>4500</integer>
+		<key>Roches BE Cheval blanc</key>
+		<integer>4186</integer>
+		<key>Rohrbach b. R'bergSchulhaus</key>
+		<integer>1571</integer>
+		<key>Rosengarten</key>
+		<integer>108</integer>
+		<key>Rosenweg</key>
+		<integer>1450</integer>
+		<key>Rossfeld</key>
+		<integer>148</integer>
+		<key>Rubigen Bahnhof</key>
+		<integer>300</integer>
+		<key>Rubigen Dorfmatte</key>
+		<integer>347</integer>
+		<key>Rubigen Hunzigenbrügg</key>
+		<integer>348</integer>
+		<key>Rubigen Thunstrasse Süd</key>
+		<integer>75</integer>
+		<key>Rössli</key>
+		<integer>3043</integer>
+		<key>Röthenbach b. H. Chrump</key>
+		<integer>4324</integer>
+		<key>Röthenbach b. H. Post</key>
+		<integer>4060</integer>
+		<key>Röthenbach b. H. Rest. Post</key>
+		<integer>4139</integer>
+		<key>Rüdlen (Reichenbach)</key>
+		<integer>4437</integer>
+		<key>Rüdtligen Käserei</key>
+		<integer>4047</integer>
+		<key>Rüeggisberg Gemeindehaus</key>
+		<integer>1573</integer>
+		<key>Rüeggisberg Mättiwil</key>
+		<integer>1574</integer>
+		<key>Rüeggisberg Post</key>
+		<integer>1575</integer>
+		<key>Rüeggisberg Tromwil</key>
+		<integer>1577</integer>
+		<key>Rüfenacht</key>
+		<integer>3080</integer>
+		<key>Rümligen Rest. zum Schwanen</key>
+		<integer>4002</integer>
+		<key>Rüschegg Gambach Bärenwart</key>
+		<integer>1580</integer>
+		<key>Rüschegg Gambach Dorf</key>
+		<integer>1581</integer>
+		<key>Rüschegg Gambach Hirschhorn</key>
+		<integer>1582</integer>
+		<key>Rüschegg Gambach Linde</key>
+		<integer>1583</integer>
+		<key>Rüschegg Graben Kreuzung</key>
+		<integer>1584</integer>
+		<key>Rüschegg Graben Rütiplötsch</key>
+		<integer>1585</integer>
+		<key>Rüschegg Heubach Längenboden</key>
+		<integer>1586</integer>
+		<key>Rüschegg Heubach Post</key>
+		<integer>1587</integer>
+		<key>Rüti b. Büren Hauptrasse</key>
+		<integer>4290</integer>
+		<key>Rüti b. R'berg Brügghüsi</key>
+		<integer>1588</integer>
+		<key>Rüti b. R'berg Dürrbach</key>
+		<integer>1589</integer>
+		<key>Rüti b. R'berg Laas</key>
+		<integer>1590</integer>
+		<key>Rüti b. R'berg Neuhaus</key>
+		<integer>1591</integer>
+		<key>Rüti b. R'berg Plötsch</key>
+		<integer>1592</integer>
+		<key>Rüti b. R'berg Unterplötsch</key>
+		<integer>1593</integer>
+		<key>Rütibühl</key>
+		<integer>3039</integer>
+		<key>Rüttelerweg</key>
+		<integer>3025</integer>
+		<key>Rüttenen Brüggmoos</key>
+		<integer>4110</integer>
+		<key>Rüttenen Grünegg</key>
+		<integer>4442</integer>
+		<key>Rüttihubelbad</key>
+		<integer>1594</integer>
+	</dict>
+	<key>S</key>
+	<dict>
+		<key>Saali</key>
+		<integer>33</integer>
+		<key>Safnern Dorfplatz</key>
+		<integer>4283</integer>
+		<key>Safnern Grenzweg</key>
+		<integer>4280</integer>
+		<key>Safnern Gürweg</key>
+		<integer>4281</integer>
+		<key>Safnern Industriestrasse</key>
+		<integer>4285</integer>
+		<key>Safnern Kirchweg</key>
+		<integer>4282</integer>
+		<key>Safnern Moosweg</key>
+		<integer>4284</integer>
+		<key>Salem</key>
+		<integer>106</integer>
+		<key>Sandhof</key>
+		<integer>3099</integer>
+		<key>Sandrain</key>
+		<integer>59</integer>
+		<key>Sandwürfi Friedhof</key>
+		<integer>126</integer>
+		<key>Sangernboden Dorf</key>
+		<integer>1596</integer>
+		<key>Sangernboden Rohtenbach</key>
+		<integer>1597</integer>
+		<key>Sangernboden Steinbachbrücke</key>
+		<integer>1598</integer>
+		<key>Saurenhorn Abzw.</key>
+		<integer>1148</integer>
+		<key>Schalunen</key>
+		<integer>3117</integer>
+		<key>Schanzenstrasse</key>
+		<integer>83</integer>
+		<key>Scherliau</key>
+		<integer>1604</integer>
+		<key>Schermenwaldstrasse</key>
+		<integer>3051</integer>
+		<key>Schermenweg</key>
+		<integer>3008</integer>
+		<key>Scheyenholz</key>
+		<integer>3081</integer>
+		<key>Schlatt bei Gasel</key>
+		<integer>1606</integer>
+		<key>Schlossmatt</key>
+		<integer>1258</integer>
+		<key>Schlossmatte</key>
+		<integer>1452</integer>
+		<key>Schlosswil Dorf</key>
+		<integer>1611</integer>
+		<key>Schlosswil Kreuz</key>
+		<integer>1608</integer>
+		<key>Schlosswil Nest</key>
+		<integer>1213</integer>
+		<key>Schlosswil Unterführung</key>
+		<integer>1217</integer>
+		<key>Schmitten Fr Dorf</key>
+		<integer>4066</integer>
+		<key>Schosshalde</key>
+		<integer>82</integer>
+		<key>Schosshaldenfriedhof</key>
+		<integer>110</integer>
+		<key>Schulhaus Ost</key>
+		<integer>3106</integer>
+		<key>Schulhaus West</key>
+		<integer>3107</integer>
+		<key>Schulhausweg</key>
+		<integer>1144</integer>
+		<key>Schwanden b. Brienz Birgli</key>
+		<integer>4257</integer>
+		<key>Schwanden i. E. Aeschli</key>
+		<integer>1619</integer>
+		<key>Schwanden i. E. Post</key>
+		<integer>1620</integer>
+		<key>Schwanden i. E. Schwandenmatt</key>
+		<integer>1621</integer>
+		<key>Schwarzenburg Bahnhof</key>
+		<integer>1623</integer>
+		<key>Schwarzenburg Brüllen</key>
+		<integer>1624</integer>
+		<key>Schwarzenburg Häusern</key>
+		<integer>1625</integer>
+		<key>Schwarzenburg Milkenstrasse</key>
+		<integer>1626</integer>
+		<key>Schwarzenburg Spital</key>
+		<integer>1628</integer>
+		<key>Schwarzenburg Thunstrasse</key>
+		<integer>1629</integer>
+		<key>Schwarzenburg Waldgasse</key>
+		<integer>1630</integer>
+		<key>Schwarzenburg Zelg</key>
+		<integer>1631</integer>
+		<key>SchwarzenburgBüblern</key>
+		<integer>1394</integer>
+		<key>Schwarzwasserbrücke Bahnhof</key>
+		<integer>4040</integer>
+		<key>Schwefelberg Bad</key>
+		<integer>1632</integer>
+		<key>Schwendi BEGrindelwaldstrasse</key>
+		<integer>4411</integer>
+		<key>Schwimmbad</key>
+		<integer>1014</integer>
+		<key>Schäferei</key>
+		<integer>3132</integer>
+		<key>Schönbrunnen</key>
+		<integer>1618</integer>
+		<key>Schönburg</key>
+		<integer>107</integer>
+		<key>Schönbühl</key>
+		<integer>3118</integer>
+		<key>Schönegg</key>
+		<integer>3065</integer>
+		<key>Schönentannen</key>
+		<integer>1388</integer>
+		<key>Schüpbach Bruuchbüel</key>
+		<integer>4362</integer>
+		<key>Schüpbach Dorf</key>
+		<integer>4143</integer>
+		<key>Schüpbach Emmenbrücke</key>
+		<integer>4360</integer>
+		<key>Schüpbach Hölzli</key>
+		<integer>4361</integer>
+		<key>Schüpfen Bahnhof</key>
+		<integer>3209</integer>
+		<key>Schüpfen Bundkofen</key>
+		<integer>3207</integer>
+		<key>Schüpfen Schlattweg</key>
+		<integer>3208</integer>
+		<key>Schüpfen Schwanden</key>
+		<integer>3210</integer>
+		<key>Schüpfenried</key>
+		<integer>1671</integer>
+		<key>Schürmatt</key>
+		<integer>3201</integer>
+		<key>Schützenhaus</key>
+		<integer>1455</integer>
+		<key>Seeberg BE Schlüssel</key>
+		<integer>4053</integer>
+		<key>Seedorf Käsereigasse</key>
+		<integer>1633</integer>
+		<key>Seedorf Post</key>
+		<integer>1130</integer>
+		<key>Seedorf Schulhaus</key>
+		<integer>1133</integer>
+		<key>Seedorf Unterdorf</key>
+		<integer>1138</integer>
+		<key>Seftigen Bahnhof</key>
+		<integer>4006</integer>
+		<key>Seidenberg</key>
+		<integer>3089</integer>
+		<key>Selzach Passionsplatz</key>
+		<integer>4116</integer>
+		<key>Selzach Pfarreizentrum</key>
+		<integer>4451</integer>
+		<key>Seminar</key>
+		<integer>80</integer>
+		<key>Signau Bahnhof</key>
+		<integer>4142</integer>
+		<key>Signau Friedhof</key>
+		<integer>4359</integer>
+		<key>Signau Hof</key>
+		<integer>4358</integer>
+		<key>Siloah</key>
+		<integer>3090</integer>
+		<key>Solothurn</key>
+		<integer>3141</integer>
+		<key>Solothurn Amthausplatz</key>
+		<integer>3142</integer>
+		<key>Solothurn Baseltor</key>
+		<integer>4080</integer>
+		<key>Solothurn Kofmehl</key>
+		<integer>4017</integer>
+		<key>Solothurn Schiffländte</key>
+		<integer>4463</integer>
+		<key>Solothurn Sternen</key>
+		<integer>4464</integer>
+		<key>Solothurn Touring</key>
+		<integer>4181</integer>
+		<key>Sonceboz-Sombeval Couronne</key>
+		<integer>4196</integer>
+		<key>Sonnenfeld</key>
+		<integer>3040</integer>
+		<key>Sonnenhof</key>
+		<integer>51</integer>
+		<key>Sonnhalde</key>
+		<integer>1456</integer>
+		<key>Sorvilier gare</key>
+		<integer>4189</integer>
+		<key>Spiegel</key>
+		<integer>8</integer>
+		<key>Spiegel Zentrum</key>
+		<integer>154</integer>
+		<key>Spiez Bahnhof</key>
+		<integer>4200</integer>
+		<key>Spiez Lötschbergplatz</key>
+		<integer>4343</integer>
+		<key>Spiezwiler Neumatte</key>
+		<integer>4441</integer>
+		<key>Spiezwiler Rössli</key>
+		<integer>4440</integer>
+		<key>Spiezwiler Schulhaus</key>
+		<integer>4319</integer>
+		<key>Spiezwiler Stegweide</key>
+		<integer>4439</integer>
+		<key>Spitalacker</key>
+		<integer>54</integer>
+		<key>Sportplatzweg</key>
+		<integer>31</integer>
+		<key>Sportweg</key>
+		<integer>121</integer>
+		<key>St. Niklaus b. Koppigen</key>
+		<integer>4204</integer>
+		<key>St. Niklaus b. Merzligen</key>
+		<integer>1635</integer>
+		<key>Stampachgasse</key>
+		<integer>3216</integer>
+		<key>Stapfen Friedhof</key>
+		<integer>133</integer>
+		<key>Stapfenacker</key>
+		<integer>250</integer>
+		<key>Stapfenrain</key>
+		<integer>331</integer>
+		<key>Station</key>
+		<integer>1169</integer>
+		<key>Statthalterstrasse</key>
+		<integer>96</integer>
+		<key>Stauffacherbrücke</key>
+		<integer>3011</integer>
+		<key>Steigerhubel</key>
+		<integer>23</integer>
+		<key>Steingrubenweg</key>
+		<integer>9</integer>
+		<key>Steinhölzli</key>
+		<integer>6</integer>
+		<key>Steinhölzli Märit</key>
+		<integer>229</integer>
+		<key>Steinibach</key>
+		<integer>3093</integer>
+		<key>Sternen</key>
+		<integer>3124</integer>
+		<key>Stettlen</key>
+		<integer>3119</integer>
+		<key>Stierenmatte</key>
+		<integer>1458</integer>
+		<key>Striten</key>
+		<integer>1468</integer>
+		<key>Stucki</key>
+		<integer>1649</integer>
+		<key>Studen BE 3 Tannen</key>
+		<integer>1794</integer>
+		<key>Studen BE Grien</key>
+		<integer>1795</integer>
+		<key>Studen BE Längacker</key>
+		<integer>1796</integer>
+		<key>Studen BE Petinesca</key>
+		<integer>1797</integer>
+		<key>Studen BE Sagi</key>
+		<integer>1798</integer>
+		<key>Studen BE Schulhaus</key>
+		<integer>1799</integer>
+		<key>Studen BE Wydenplatz</key>
+		<integer>1801</integer>
+		<key>Stöckacker</key>
+		<integer>98</integer>
+		<key>Suberg Kosthofen</key>
+		<integer>3206</integer>
+		<key>Suberg-Grossaffoltern Bahnhof</key>
+		<integer>3205</integer>
+		<key>Subingen Bahnhof</key>
+		<integer>4475</integer>
+		<key>Subingen Schulzentrum</key>
+		<integer>4476</integer>
+		<key>Sugiez gare</key>
+		<integer>4165</integer>
+		<key>Sulgenau</key>
+		<integer>3</integer>
+		<key>Sumiswald Arch</key>
+		<integer>4031</integer>
+		<key>Sumiswald Ey</key>
+		<integer>4032</integer>
+		<key>Sumiswald Mauer</key>
+		<integer>4033</integer>
+		<key>Sumiswald Post</key>
+		<integer>4030</integer>
+		<key>Sumiswald-Grünen Bahnhof</key>
+		<integer>4029</integer>
+		<key>Sutz Bahnhof</key>
+		<integer>4104</integer>
+		<key>Säge</key>
+		<integer>1240</integer>
+		<key>Sägematte</key>
+		<integer>1451</integer>
+		<key>Sägestrasse</key>
+		<integer>321</integer>
+		<key>Säriswil Dorf</key>
+		<integer>1600</integer>
+		<key>Säriswil Schulhaus</key>
+		<integer>1601</integer>
+		<key>Säriswil Wendeplatz</key>
+		<integer>1602</integer>
+	</dict>
+	<key>T</key>
+	<dict>
+		<key>Tafers Muttacker</key>
+		<integer>4070</integer>
+		<key>Tafers Oberdorf</key>
+		<integer>4072</integer>
+		<key>Tannacker</key>
+		<integer>3041</integer>
+		<key>Tavannes gare</key>
+		<integer>4193</integer>
+		<key>Tavelweg</key>
+		<integer>81</integer>
+		<key>Technopark</key>
+		<integer>191</integer>
+		<key>Tennis</key>
+		<integer>1469</integer>
+		<key>Tennisplatz</key>
+		<integer>3134</integer>
+		<key>Thalgutstrasse</key>
+		<integer>1711</integer>
+		<key>Thalmatt</key>
+		<integer>1645</integer>
+		<key>Than</key>
+		<integer>1576</integer>
+		<key>Thomasweg</key>
+		<integer>119</integer>
+		<key>Thunplatz</key>
+		<integer>28</integer>
+		<key>Thurnen Bahnhof</key>
+		<integer>1650</integer>
+		<key>Thörishaus Liebewilstrasse</key>
+		<integer>4109</integer>
+		<key>Tiefenau</key>
+		<integer>3152</integer>
+		<key>Tiefenmösli</key>
+		<integer>161</integer>
+		<key>Tierpark</key>
+		<integer>132</integer>
+		<key>Tillierstrasse</key>
+		<integer>134</integer>
+		<key>Toffen Bahnhof</key>
+		<integer>1651</integer>
+		<key>Toffen Breitlohn</key>
+		<integer>1653</integer>
+		<key>ToffenGemeindeverwaltung</key>
+		<integer>1383</integer>
+		<key>Trimsteinstrasse</key>
+		<integer>1460</integer>
+		<key>Trubschachen Bahnhof</key>
+		<integer>4146</integer>
+		<key>Trubschachen Hasenlee</key>
+		<integer>4378</integer>
+		<key>Trubschachen Kröschenbrunnen</key>
+		<integer>4147</integer>
+		<key>Trubschachen Teufenbachsteg</key>
+		<integer>4376</integer>
+		<key>Trubschachen Unterdorf</key>
+		<integer>4377</integer>
+		<key>Tscharnergut</key>
+		<integer>102</integer>
+		<key>Tscheppach Post</key>
+		<integer>1659</integer>
+		<key>Tschugg Klinik</key>
+		<integer>1660</integer>
+		<key>Tschugg Matte</key>
+		<integer>1661</integer>
+		<key>Tschugg Post</key>
+		<integer>1662</integer>
+		<key>Twann Bahnhof</key>
+		<integer>4097</integer>
+		<key>Tägertschi Dorf</key>
+		<integer>339</integer>
+		<key>Täuffelen Bahnhof</key>
+		<integer>4100</integer>
+		<key>Tüscherz Dorfweg</key>
+		<integer>4096</integer>
+	</dict>
+	<key>U</key>
+	<dict>
+		<key>UPD Waldau</key>
+		<integer>314</integer>
+		<key>Uettligen Dorf</key>
+		<integer>1668</integer>
+		<key>Uettligen Post</key>
+		<integer>1669</integer>
+		<key>Uettligen Schule</key>
+		<integer>1670</integer>
+		<key>Unitobler</key>
+		<integer>86</integer>
+		<key>Universität</key>
+		<integer>84</integer>
+		<key>Unterbach Rössli</key>
+		<integer>4490</integer>
+		<key>Untermattweg</key>
+		<integer>196</integer>
+		<key>Unterramsern Post</key>
+		<integer>1677</integer>
+		<key>Unterschwanden</key>
+		<integer>4258</integer>
+		<key>Unterzollikofen</key>
+		<integer>3094</integer>
+		<key>Urtenen</key>
+		<integer>3120</integer>
+		<key>Utzenstorf Koppigenstrasse</key>
+		<integer>1046</integer>
+		<key>Utzenstorf Poststrasse</key>
+		<integer>1679</integer>
+		<key>Utzigen</key>
+		<integer>1681</integer>
+		<key>Utzigen Aebnit</key>
+		<integer>1682</integer>
+		<key>Utzigen Pflege-und Altersheim</key>
+		<integer>1684</integer>
+	</dict>
+	<key>V</key>
+	<dict>
+		<key>Vechigen</key>
+		<integer>3180</integer>
+		<key>Viktoriaplatz</key>
+		<integer>53</integer>
+		<key>Vinelz Flachsern</key>
+		<integer>1687</integer>
+		<key>Vinelz Post</key>
+		<integer>1688</integer>
+		<key>Vinelz Strand</key>
+		<integer>1689</integer>
+		<key>Vorder-Sangernboden</key>
+		<integer>1693</integer>
+		<key>Vorderer Rain</key>
+		<integer>1073</integer>
+	</dict>
+	<key>W</key>
+	<dict>
+		<key>Wabern</key>
+		<integer>61</integer>
+		<key>Wabern Lindenweg</key>
+		<integer>205</integer>
+		<key>Waldeck</key>
+		<integer>111</integer>
+		<key>Waldegg</key>
+		<integer>3066</integer>
+		<key>Waldheimstrasse</key>
+		<integer>160</integer>
+		<key>Waldhäusern BE Kurhaus</key>
+		<integer>1701</integer>
+		<key>Waldried</key>
+		<integer>3071</integer>
+		<key>Walke</key>
+		<integer>1461</integer>
+		<key>Walkringen Bahnhof</key>
+		<integer>1702</integer>
+		<key>Walkringen Dorni</key>
+		<integer>1713</integer>
+		<key>Walkringen Niederwil</key>
+		<integer>1703</integer>
+		<key>Walkringen Zihlstrasse</key>
+		<integer>1704</integer>
+		<key>Walliswil b. W. Sonne</key>
+		<integer>4062</integer>
+		<key>Walliswil b. Wangen Post</key>
+		<integer>4328</integer>
+		<key>Walliswil b. Wangen Seilerei</key>
+		<integer>4329</integer>
+		<key>Walliswil b. Wangen Stalden</key>
+		<integer>4327</integer>
+		<key>Walliswil b. Wangen Tal</key>
+		<integer>4326</integer>
+		<key>Wander</key>
+		<integer>4</integer>
+		<key>Wangen a.d. Aare Unterführung</key>
+		<integer>4330</integer>
+		<key>Wangen a.d.Aare Aarenbrücke</key>
+		<integer>4467</integer>
+		<key>Wangen an der Aare Bahnhof</key>
+		<integer>4063</integer>
+		<key>Wankdorf Bahnhof</key>
+		<integer>386</integer>
+		<key>Wankdorf Center</key>
+		<integer>3010</integer>
+		<key>Wankdorf City</key>
+		<integer>3149</integer>
+		<key>Wankdorfbrücke</key>
+		<integer>317</integer>
+		<key>Wankdorfplatz</key>
+		<integer>217</integer>
+		<key>Wanzwil Post</key>
+		<integer>4059</integer>
+		<key>Wasen i. E. Bahnhof</key>
+		<integer>4036</integer>
+		<key>Wasen i. E. Dangeli</key>
+		<integer>4035</integer>
+		<key>Wasen i. E. Kirche</key>
+		<integer>4037</integer>
+		<key>Wasen i. E. Oberei</key>
+		<integer>4034</integer>
+		<key>Wasserscheide</key>
+		<integer>1233</integer>
+		<key>Wattenwil Rössli</key>
+		<integer>4007</integer>
+		<key>Wegmühlegässli</key>
+		<integer>114</integer>
+		<key>Weidli</key>
+		<integer>10</integer>
+		<key>Weissenbühl</key>
+		<integer>46</integer>
+		<key>Weissenstein Abzw</key>
+		<integer>1094</integer>
+		<key>Weissensteinstrasse</key>
+		<integer>117</integer>
+		<key>Weltpostverein</key>
+		<integer>30</integer>
+		<key>Wengi b. Frutigen Dorf</key>
+		<integer>4314</integer>
+		<key>Wengi b. Frutigen Schlundbach</key>
+		<integer>4436</integer>
+		<key>Weyergut</key>
+		<integer>260</integer>
+		<key>Weyermannshaus</key>
+		<integer>1202</integer>
+		<key>Weyermannshaus Bad</key>
+		<integer>182</integer>
+		<key>Weyerstrasse</key>
+		<integer>236</integer>
+		<key>Wichtrach Bahnhof</key>
+		<integer>1710</integer>
+		<key>Wichtrach Bernstrasse</key>
+		<integer>1198</integer>
+		<key>Wichtrach Dorfplatz</key>
+		<integer>1751</integer>
+		<key>Wichtrach Käserei</key>
+		<integer>1504</integer>
+		<key>Wiedlisbach Wangenstrasse</key>
+		<integer>4087</integer>
+		<key>Wiedlsibach Al Ponte</key>
+		<integer>4090</integer>
+		<key>Wiggen Dürrenbach</key>
+		<integer>4379</integer>
+		<key>Wikartswil Dorf</key>
+		<integer>1712</integer>
+		<key>Wilderswil Bahnhof</key>
+		<integer>4233</integer>
+		<key>Wilderswil Dorf</key>
+		<integer>4232</integer>
+		<key>Wilderswil Gemeindeverwaltung</key>
+		<integer>4416</integer>
+		<key>Wilderswil Hotel Heimat</key>
+		<integer>4414</integer>
+		<key>Wilderswil Post</key>
+		<integer>4415</integer>
+		<key>Wiler bei Seedorf Dorf</key>
+		<integer>1127</integer>
+		<key>Wiler bei Seedorf Neuwiler</key>
+		<integer>1135</integer>
+		<key>Wiler bei Seedorf Stücki</key>
+		<integer>1125</integer>
+		<key>Willadingweg</key>
+		<integer>136</integer>
+		<key>Winkelriedstrasse</key>
+		<integer>3013</integer>
+		<key>Winterswil Abzw.</key>
+		<integer>1146</integer>
+		<key>Wislisau Wirtschaft</key>
+		<integer>1721</integer>
+		<key>Wittigkofen</key>
+		<integer>32</integer>
+		<key>Wohlen b. Bern Schaufelacker</key>
+		<integer>1722</integer>
+		<key>Wohlen bei Bern Gemeindehaus</key>
+		<integer>1358</integer>
+		<key>Worb Bahnhofstrasse</key>
+		<integer>2028</integer>
+		<key>Worb Bleiche</key>
+		<integer>1725</integer>
+		<key>Worb Blümlisalpstrasse</key>
+		<integer>1726</integer>
+		<key>Worb Dorf</key>
+		<integer>3129</integer>
+		<key>Worb Filzfabrik</key>
+		<integer>1727</integer>
+		<key>Worb Lindhalde</key>
+		<integer>1730</integer>
+		<key>Worb Längmatt</key>
+		<integer>1729</integer>
+		<key>Worb Mühlestrasse</key>
+		<integer>1731</integer>
+		<key>Worb Toggenburg</key>
+		<integer>1732</integer>
+		<key>Worb Wyden Schulhaus</key>
+		<integer>1733</integer>
+		<key>Worbboden</key>
+		<integer>3181</integer>
+		<key>Worben Bad</key>
+		<integer>1802</integer>
+		<key>Worben Busswilstrasse</key>
+		<integer>1803</integer>
+		<key>Worben Gemeindehaus</key>
+		<integer>1804</integer>
+		<key>Worben Post</key>
+		<integer>1805</integer>
+		<key>Worben Tribey</key>
+		<integer>1800</integer>
+		<key>Worblaufen</key>
+		<integer>3148</integer>
+		<key>Wydacker</key>
+		<integer>3133</integer>
+		<key>Wyden Schulhaus</key>
+		<integer>1390</integer>
+		<key>Wyler</key>
+		<integer>176</integer>
+		<key>Wyler bei Seedorf Grissenberg</key>
+		<integer>1129</integer>
+		<key>Wyleregg</key>
+		<integer>143</integer>
+		<key>Wylerholz</key>
+		<integer>3014</integer>
+		<key>Wynigen Bahnhof</key>
+		<integer>4491</integer>
+		<key>Wünnewil Dorf</key>
+		<integer>4496</integer>
+		<key>Wünnewil Felsenegg</key>
+		<integer>4064</integer>
+		<key>Wünnewil Hagnet</key>
+		<integer>4498</integer>
+		<key>Wünnewil Pfaffenholz</key>
+		<integer>4497</integer>
+	</dict>
+	<key>Z</key>
+	<dict>
+		<key>Zelgweg</key>
+		<integer>1462</integer>
+		<key>Zent</key>
+		<integer>3015</integer>
+		<key>Zentrum Paul Klee</key>
+		<integer>380</integer>
+		<key>Ziegelhüsi</key>
+		<integer>3112</integer>
+		<key>Zieglerspital</key>
+		<integer>5</integer>
+		<key>Zimmerwald Budelkehr</key>
+		<integer>1735</integer>
+		<key>Zimmerwald Eichacher</key>
+		<integer>1736</integer>
+		<key>Zimmerwald Kirche</key>
+		<integer>1737</integer>
+		<key>Zimmerwald Post</key>
+		<integer>1738</integer>
+		<key>Zimmerwald Weiermatt</key>
+		<integer>1510</integer>
+		<key>Zimmerwaldstr/Talstr</key>
+		<integer>1297</integer>
+		<key>Zollgasse</key>
+		<integer>113</integer>
+		<key>Zollhaus FR</key>
+		<integer>1739</integer>
+		<key>Zollikofen</key>
+		<integer>3130</integer>
+		<key>Zollikofen Webergutstrasse</key>
+		<integer>1744</integer>
+		<key>Zollikofen alte Post</key>
+		<integer>3100</integer>
+		<key>Zuchwil Zentrum</key>
+		<integer>4124</integer>
+		<key>Zukunftstrasse/Rue de l'Avenir</key>
+		<integer>1762</integer>
+		<key>Zulligerstrasse</key>
+		<integer>3053</integer>
+		<key>Zumholz Abzweigung</key>
+		<integer>1746</integer>
+		<key>Zumholz Guggersbachbrücke</key>
+		<integer>1747</integer>
+		<key>Zweilütschinen Bahnhof</key>
+		<integer>4230</integer>
+		<key>Zwischengiesse</key>
+		<integer>1463</integer>
+		<key>Zäziwil Kronenplatz</key>
+		<integer>4357</integer>
+	</dict>
+</dict>
+</plist>

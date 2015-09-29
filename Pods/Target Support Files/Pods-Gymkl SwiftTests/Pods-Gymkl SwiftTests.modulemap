@@ -1,0 +1,6 @@
+framework module Pods_Gymkl_SwiftTests {
+  umbrella header "Pods-Gymkl SwiftTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
