@@ -87,8 +87,9 @@ extension MensaViewController: NSURLSessionDataDelegate {
                         })
                     }
                     else if (response as! NSHTTPURLResponse).statusCode == 200 && data!.length > 2 {
+                        var jsonMensaArray = NSArray()
                         do {
-                            var jsonMensaArray = try NSJSONSerialization.JSONObjectWithData(data!, options: nil) as NSArray
+                            jsonMensaArray = try NSJSONSerialization.JSONObjectWithData(data!, options: .MutableContainers) as! NSArray
                         } catch {
                             
                         }

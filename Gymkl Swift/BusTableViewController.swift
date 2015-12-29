@@ -10,6 +10,7 @@
 
 import UIKit
 import Foundation
+import SwiftyJSON
 
 class BusTableViewController: UITableViewController {
 
@@ -78,20 +79,48 @@ class BusTableViewController: UITableViewController {
 }
 
 struct Station {
-    var departures = [Departure]()
-    var loadingURL = NSURL()
+    var directions = [OldDirection]()
     var stationName = ""
-    var requestTime = ""
+    
+    mutating func findOrCreateDirection(named name: String) -> Int {
+        // TODO: Improve this algorithm, like a lot
+        if let existingDirectionIndex = self.directions.map({$0.name}).indexOf(name) {
+            return existingDirectionIndex
+        } else {
+            let newDirection = OldDirection(name: name)
+            self.directions.append(newDirection)
+            return self.directions.endIndex - 1
+        }
+    }
+//    var directions = [Direction]()
+//    var loadingURL = NSURL()
+//    var stationName = ""
+//    var requestTime = ""
+//    var directionNames = [String]()
+    
 }
 
-struct Departure {
-    var link = ""
-    var linkURL = NSURL()
-    var late = false
-    var departure = ""
-    var line = ""
-    var time = ""
-    var direction = ""
+struct OldDirection{
+    var name: String
+    var departures = [OldDeparture]()
+    
+    init(name: String) {
+        self.name = name
+    }
+}
+
+struct OldDeparture {
+    var isLate: Bool
+    var line: String
+    var absoluteTime: String
+    var deltaTime: String
+    
+    init(line: String, absoluteTime: String, deltaTime: String, isLate: Bool) {
+        self.line = line
+        self.absoluteTime = absoluteTime
+        self.isLate = isLate
+        self.deltaTime = deltaTime
+    }
 }
 
 // MARK: - Networking
@@ -110,18 +139,21 @@ extension BusTableViewController: NSURLSessionDataDelegate {
             busData.length = 0
             jsonError = nil
             
-            var request = NSURLRequest(URL: NSURL(string: "http://m.mezi.ch/timetable/json/\(urlString)")!)
+            let request = NSURLRequest(URL: NSURL(string: "http://m.mezi.ch/timetable/json/\(urlString)")!)
             let task = NSURLSession.sharedSession().dataTaskWithRequest(request, completionHandler: {(data: NSData?, response: NSURLResponse?, error: NSError?) in
                 if response != nil {
                     if let error = self.jsonError {
                         dispatch_async(dispatch_get_main_queue(), {
+                            print(error)
+                            // TODO: Change to do/throw/catch
                             self.hideReloadIndicators(showNetworkErrorView: false, showNoDataErrorView: true)
                         })
                     }
                     else if (response as! NSHTTPURLResponse).statusCode == 200 && data!.length != 0 {
-                        var string = NSString(data: data!, encoding: NSUTF8StringEncoding)
-                        var jsonDepartureDictionary = NSJSONSerialization.JSONObjectWithData(data, options: nil, error: &self.jsonError) as Dictionary<String, AnyObject>
-                        self.parseJSON(jsonDepartureDictionary) // Extracts data from JSON Array
+                        let jsonArray = JSON(data: data!)
+                        
+                        self.parseJSON(jsonArray) // Extracts data from JSON Array
+                        
                         dispatch_async(dispatch_get_main_queue(), {
                             self.hideReloadIndicators(showNetworkErrorView: false, showNoDataErrorView: false)
                             self.tableView.reloadData()
@@ -149,29 +181,47 @@ extension BusTableViewController: NSURLSessionDataDelegate {
     }
 
     
-    func parseJSON(dict: Dictionary<String,AnyObject>) {
-        var protoStation = Station()
-        protoStation.stationName = dict["header"] as AnyObject? as! String
-        protoStation.requestTime = dict["requestTime"] as AnyObject? as! String
-        for object in dict["departures"] as AnyObject? as! Array<Dictionary<String, String>> {
-            var protoDeparture = Departure()
-            protoDeparture.time = object["time"]!
-            protoDeparture.line = object["line"]!
-            protoDeparture.link = object["direction_href"]!
-            protoDeparture.direction = object["direction"]!
-            protoDeparture.departure = object["departure"]!
-            protoDeparture.departure = protoDeparture.departure.stringByReplacingOccurrencesOfString("min", withString: " min", options: nil, range: nil)
-            var lateString = object["late"]!
-            if lateString == "false" {
-                protoDeparture.late = false
-            }
-            else if lateString == "true" {
-                protoDeparture.late = true
-            }
-            protoStation.departures.append(protoDeparture)
+    func parseJSON(json: JSON) {
+        var station = Station()
+        print(json)
+        station.stationName = json["header"].string!
+        for object in json["departures"].array! {
+            let directionName = object["direction"].string
+            let directionIndex = station.findOrCreateDirection(named: directionName!)
+            
+            let absoluteTime = object["time"].string!
+            let line = object["line"].string!
+            let isLate = NSString(string: object["late"].string!).boolValue
+            let deltaTime = object["departure"].string!.stringByReplacingOccurrencesOfString("min", withString: " min")
+            
+            let departure = OldDeparture(line: line, absoluteTime: absoluteTime, deltaTime: deltaTime, isLate: isLate)
+            station.directions[directionIndex].departures.append(departure)
         }
-        var stationString = protoStation.stationName.stringByReplacingOccurrencesOfString(",", withString: "", options: [], range: nil)
-        stationArray[stationString] = protoStation
+        
+        let stationString = station.stationName.stringByReplacingOccurrencesOfString(",", withString: "", options: [], range: nil)
+        stationArray[stationString] = station
+//        var protoStation = Station()
+//        protoStation.stationName = json["header"].string!
+//        protoStation.requestTime = json["requestTime"].string!
+//        for object in json["departures"].array! {
+//            let direction = object["direction"].string!
+//            protoDeparture.time = object["time"]!
+//            protoDeparture.line = object["line"]!
+//            protoDeparture.link = object["direction_href"]!
+//            protoDeparture.direction = object["direction"]!
+//            protoDeparture.departure = object["departure"]!
+//            protoDeparture.departure = protoDeparture.departure.stringByReplacingOccurrencesOfString("min", withString: " min", options: NSStringCompareOptions.LiteralSearch, range: nil)
+//            let lateString = object["late"]!
+//            if lateString == "false" {
+//                protoDeparture.late = false
+//            }
+//            else if lateString == "true" {
+//                protoDeparture.late = true
+//            }
+//            protoStation.departures.append(protoDeparture)
+//        }
+//        let stationString = protoStation.stationName.stringByReplacingOccurrencesOfString(",", withString: "", options: [], range: nil)
+//        stationArray[stationString] = protoStation
     }
 }
 
@@ -186,11 +236,11 @@ extension BusTableViewController {
     override func tableView(tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         // Returns the number of rows in each section (3 is default, also handles if there are less available)
         if let station = stationArray[stationsByKeys[stationsToLoad[section]]!] {
-            if station.departures.count >= 3 {
+            if station.directions.count >= 3 {
                 return 3
             }
             else {
-                return station.departures.count
+                return station.directions.count
             }
         }
         else {
@@ -207,18 +257,47 @@ extension BusTableViewController {
         cell.detailTextLabel?.font = UIFont.systemFontOfSize(13.0)
         // Fill cell with appropriate info (line destination, time to departure)
         if let station = stationArray[stationsByKeys[stationsToLoad[indexPath.section]]!] {
-            cell.textLabel!.text = station.departures[indexPath.row].direction
-            cell.detailTextLabel?.text = station.departures[indexPath.row].departure
-            for character in (cell.detailTextLabel!.text!).characters {
-                if character == "h" {
-                    // If departure time is more than 60 minutes from now, display static time (hh:mm)
-                    cell.detailTextLabel?.text = station.departures[indexPath.row].time
-                    break;
+            let direction = station.directions[indexPath.row]
+//            for departure in station.departures {
+//                let direction = departure.direction
+//                if directionsArray.indexOf(direction) == nil {
+//                    directionsArray.append(direction)
+//                }
+//            }
+//            
+//            print(directionsArray)
+            
+            cell.textLabel!.text = direction.name
+            print(direction.departures)
+            let nextDepartures = Array(direction.departures[0...direction.departures.count-1])
+            var detailLabelText = [NSMutableAttributedString]()
+            
+            for departure in nextDepartures {
+                detailLabelText.append(NSMutableAttributedString(string: departure.deltaTime))
+                for character in departure.deltaTime.characters {
+                    if character == "h" {
+                        detailLabelText.removeLast()
+                        detailLabelText.append(NSMutableAttributedString(string: departure.absoluteTime))
+                    }
+                }
+//                if departure.isLate == true {
+                    if departure.absoluteTime == "18:37" {
+                    let attributedString = detailLabelText.removeLast()
+                    attributedString.addAttribute(NSForegroundColorAttributeName, value: UIColor.redColor(), range: NSMakeRange(0, attributedString.length))
                 }
             }
-            if station.departures[indexPath.row].late == true {
-                cell.detailTextLabel?.textColor = .redColor()
+            var departureTimesString = NSMutableAttributedString(string: "")
+            for (index, departureTime) in detailLabelText.enumerate() {
+                if departureTimesString == NSMutableAttributedString(string: "") {
+                    departureTimesString = departureTime
+                } else {
+                    if index < 3 {
+                        departureTimesString.appendAttributedString(NSAttributedString(string: ", "))
+                        departureTimesString.appendAttributedString(departureTime)
+                    }
+                }
             }
+            cell.detailTextLabel?.attributedText = departureTimesString
         }
         else {
             cell.textLabel!.text = "Daten nicht verfügbar"
