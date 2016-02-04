@@ -25,18 +25,18 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         stationsToLoad = NSUserDefaults.standardUserDefaults().objectForKey("stations")! as! Array<Int>
         NSUserDefaults.standardUserDefaults().setObject((NSUserDefaults.standardUserDefaults().objectForKey("numberOfLaunches")! as! Int) + 1, forKey: "numberOfLaunches")
         
-        // Order bus station names from raw data
-        for (letter, stations) in fullStationArray {
-            var tempNames = [String]()
-            for (name, id) in stations {
-                stationsByNames[name] = id
-                stationsByKeys[id] = name
-                tempNames.append(name)
-            }
-            stationNames[letter] = tempNames.sort(<)
-        }
-        stationIndexes = stationIndexes.sort(<)
-        stationNamesArray = stationsByKeys.values.sort(<)
+//        // Order bus station names from raw data
+//        for (letter, stations) in fullStationArray {
+//            var tempNames = [String]()
+//            for (name, id) in stations {
+//                stationsByNames[name] = id
+//                stationsByKeys[id] = name
+//                tempNames.append(name)
+//            }
+//            stationNames[letter] = tempNames.sort(<)
+//        }
+//        stationIndexes = stationIndexes.sort(<)
+//        stationNamesArray = stationsByKeys.values.sort(<)
         
         // Set animation behaviour for "Mensa"-Tab according to user preferences or default
         // Default is to disable animations after 4 launches as to not clutter the workflow

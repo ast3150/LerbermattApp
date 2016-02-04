@@ -2,7 +2,7 @@
 //  Location+CoreDataProperties.swift
 //  
 //
-//  Created by Alain Stulz on 28/12/15.
+//  Created by Alain Stulz on 29/12/15.
 //
 //
 //  Choose "Create NSManagedObject Subclass…" from the Core Data editor menu
@@ -16,6 +16,7 @@ extension Location {
 
     @NSManaged var id: NSNumber?
     @NSManaged var name: String?
-    @NSManaged var departures: NSSet?
+    @NSManaged var x: NSNumber?
+    @NSManaged var y: NSNumber?
 
 }

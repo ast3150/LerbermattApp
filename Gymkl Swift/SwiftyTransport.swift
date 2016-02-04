@@ -1,6 +1,5 @@
 //
-//  GLBusNetworking.swift
-//  Gymkl Swift
+//  SwiftyTransport.swift
 //
 //  Created by Alain Stulz on 28/12/15.
 //  Copyright © 2015 Alain Stulz. All rights reserved.
@@ -8,20 +7,20 @@
 
 import UIKit
 
-let busBaseURL = "http://transport.opendata.ch/v1/"
+let baseURL = "http://transport.opendata.ch/v1/"
 
-class GLBusNetworking: NSObject {
-    let delegate: GLBusNetworkingDelegate
-    
-    init(delegate: GLBusNetworkingDelegate) {
-        self.delegate = delegate
-    }
+class SwiftyTransport: NSObject {
+    var delegate: SwiftyTransportDelegate!
     
     // MARK: Locations
     
     /**
-     Sends a /locations request to the API
-     
+    Returns the matching locations for the given parameters. Either query or ( x and y ) are required.
+    
+    The locations in the response are scored to determine which is the most exact location.
+    
+    This method can return a refine response, what means that the request has to be redone.
+    
      - parameter query: A search query, e.g. "Bern, Bahnhof"
      - parameter coordinates: A Location to list the nearest locations
      - parameter type: Only with query, type of the location, see LocationType
@@ -50,10 +49,10 @@ class GLBusNetworking: NSObject {
             }
         }
         
-        var urlString = busBaseURL + resource
+        var urlString = baseURL + resource
         
         for parameter in parameters {
-            if urlString == busBaseURL + resource {
+            if urlString == baseURL + resource {
                 // First parameter
                 urlString += "?\(parameter)"
             } else {
@@ -110,7 +109,7 @@ class GLBusNetworking: NSObject {
     // MARK: Connections
     
     /**
-    Sends a /connections request to the API
+    Returns the next connections from a location to another.
     
     - parameter from: Specifies the departure location of the connection
     - parameter to: Specifies the arrival location of the connection	
@@ -181,10 +180,10 @@ class GLBusNetworking: NSObject {
             parameters.append("accessibility=\(accessibility.rawValue)")
         }
         
-        var urlString = busBaseURL + resource
+        var urlString = baseURL + resource
         
         for parameter in parameters {
-            if urlString == busBaseURL + resource {
+            if urlString == baseURL + resource {
                 // First parameter
                 urlString += "?\(parameter)"
             } else {
@@ -217,7 +216,7 @@ class GLBusNetworking: NSObject {
                 self.delegate.didGetConnectionsData(data!)
             }.resume()
         } else {
-            throw BusNetworkingError.InvalidURL
+            throw SwiftyTransportError.InvalidURL
         }
     }
     
@@ -233,9 +232,18 @@ class GLBusNetworking: NSObject {
     
     // MARK: Stationboard
     
+    /**
+    Returns the next connections leaving from a specific location.
+    
+    - parameter station: Specifies the location of which a stationboard should be returned	
+    - parameter id: The id of the station whose stationboard should be returned. Alternative to the station parameter; one of these two is required. If both an id and a station are specified the id has precedence.
+    - parameter limit: Number of departing connections to return. This is not a hard limit - if multiple connections leave at the same time it'll return any connections that leave at the same time as the last connection within the limit.
+    - parameter transportations: Type of transportations leaving from location, see Transportations
+    - parameter datetime: Date and time of departing connections, in the format YYYY-MM-DD hh:mm.
+    */
     func getStationboard(station: String?, id: String?, limit: Int?, transportations: [Transportations]?, datetime: String?) throws {
         guard (station != nil) || (id != nil) else {
-            throw BusNetworkingError.InvalidParameters
+            throw SwiftyTransportError.InvalidParameters
         }
         
         let resource = "stationboard"
@@ -261,10 +269,10 @@ class GLBusNetworking: NSObject {
             parameters.append("datetime=\(datetime)")
         }
         
-        var urlString = busBaseURL + resource
+        var urlString = baseURL + resource
         
         for parameter in parameters {
-            if urlString == busBaseURL + resource {
+            if urlString == baseURL + resource {
                 // First parameter
                 urlString += "?\(parameter)"
             } else {
@@ -297,6 +305,23 @@ class GLBusNetworking: NSObject {
         }.resume()
     }
     
+    /**
+     getStationboard for Station Name
+     
+     - parameter station: Specifies the location of which a stationboard should be returned
+     */
+    func getStationboardForStation(station: String) throws {
+        try getStationboard(station, id: nil, limit: nil, transportations: nil, datetime: nil)
+    }
+    
+    /**
+     getStationboard for Station id
+     
+     - parameter id: The id of the station whose stationboard should be returned. Alternative to the station parameter
+     */
+    func getStationboardForID(id: String) throws {
+        try getStationboard(nil, id: id, limit: nil, transportations: nil, datetime: nil)
+    }
 }
 
 enum LocationType: String {
@@ -325,12 +350,12 @@ enum AccessibilityType: String {
     case Advanced_Notice
 }
 
-enum BusNetworkingError: ErrorType {
+enum SwiftyTransportError: ErrorType {
     case InvalidParameters
     case InvalidURL
 }
 
-protocol GLBusNetworkingDelegate {
+protocol SwiftyTransportDelegate {
     func didGetLocationsData(data: NSData)
     func didGetConnectionsData(data: NSData)
     func didGetStationboardData(data: NSData)

@@ -19,16 +19,6 @@ let redColor = UIColor(red: (247/255), green: (134/255), blue: (130/255), alpha:
 let turquoiseColor = UIColor(red: (63/255), green: (175/255), blue: (164/255), alpha: 1.0) // Previously used "Mensa-Tab" Color
 let yellowColor = UIColor(red: (249/255), green: (229/255), blue: (29/255), alpha: 1.0) // "Bus"-Tab Color
 
-// "Bus"-Tab Arrays and Dictionaries
-var fullStationArray: [String: [String: Int]]  = NSDictionary(contentsOfFile: stationNamesPath!) as! Dictionary<String,Dictionary<String, Int>>
-var stationsByNames: Dictionary<String, Int> = [String: Int]()
-var stationsByKeys: Dictionary<Int, String> = [Int: String]()
-var stationNames: Dictionary<String, Array<String>> = [String: [String]]()
-var stationIndexes = [String](fullStationArray.keys)
-var stationNamesArray = [String]()
-var searchArray = [String]()
-var searching = false
-
 // Screen Dimensions
 let screenHeight = UIScreen.mainScreen().bounds.size.height
 let screenWidth = UIScreen.mainScreen().bounds.size.width

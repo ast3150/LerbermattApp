@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="9525" systemVersion="15C50" minimumToolsVersion="Xcode 7.0">
-    <entity name="Departure" representedClassName="Departure" syncable="YES">
-        <attribute name="absoluteTime" optional="YES" attributeType="Date" syncable="YES"/>
-        <attribute name="destination" optional="YES" attributeType="String" syncable="YES"/>
-        <attribute name="relativeTime" optional="YES" attributeType="String" syncable="YES"/>
-        <relationship name="location" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Location" inverseName="departures" inverseEntity="Location" syncable="YES"/>
-    </entity>
     <entity name="Location" representedClassName="Location" syncable="YES">
-        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
         <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
-        <relationship name="departures" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Departure" inverseName="location" inverseEntity="Departure" syncable="YES"/>
+        <attribute name="x" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="y" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
     </entity>
     <elements>
-        <element name="Departure" positionX="7" positionY="-0" width="128" height="103"/>
-        <element name="Location" positionX="-209" positionY="6" width="119" height="88"/>
+        <element name="Location" positionX="-209" positionY="6" width="119" height="105"/>
     </elements>
 </model>
