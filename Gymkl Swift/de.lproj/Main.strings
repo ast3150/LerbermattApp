@@ -1,0 +1,63 @@
+
+/* Class = "IBUINavigationItem"; title = "Fahrplan"; ObjectID = "1qh-in-2w4"; */
+"1qh-in-2w4.title" = "Fahrplan";
+
+/* Class = "IBUILabel"; text = "Verbindung nicht möglich"; ObjectID = "4WD-LA-OPX"; */
+"4WD-LA-OPX.text" = "Verbindung nicht möglich";
+
+/* Class = "IBUILabel"; text = "vegetarianDescription"; ObjectID = "5aL-Pq-GBp"; */
+"5aL-Pq-GBp.text" = "vegetarianDescription";
+
+/* Class = "IBUILabel"; text = "Um aktuelle Neuigkeiten anzuzeigen benötigen Sie eine Verbindung mit einem Wi-Fi- oder mobilen Datennetzwerk."; ObjectID = "5lu-Dp-xE6"; */
+"5lu-Dp-xE6.text" = "Um aktuelle Neuigkeiten anzuzeigen benötigen Sie eine Verbindung mit einem Wi-Fi- oder mobilen Datennetzwerk.";
+
+/* Class = "IBUITabBarItem"; title = "Menüplan"; ObjectID = "9f3-BU-zsU"; */
+"9f3-BU-zsU.title" = "Menüplan";
+
+/* Class = "IBUILabel"; text = "budgetDescription"; ObjectID = "Ixc-0T-6aM"; */
+"Ixc-0T-6aM.text" = "budgetDescription";
+
+/* Class = "IBUITabBarItem"; title = "Aktuelles"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Aktuelles";
+
+/* Class = "IBUILabel"; text = "meatDescription"; ObjectID = "cbP-FB-aEC"; */
+"cbP-FB-aEC.text" = "meatDescription";
+
+/* Class = "IBUILabel"; text = "vegetarianMenu"; ObjectID = "fDI-OR-ZYI"; */
+"fDI-OR-ZYI.text" = "vegetarianMenu";
+
+/* Class = "IBUILabel"; text = "Um den Menüplan anzuzeigen benötigen Sie eine Verbindung mit einem Wi-Fi- oder mobilen Datennetzwerk."; ObjectID = "fFY-sV-ScR"; */
+"fFY-sV-ScR.text" = "Um den Menüplan anzuzeigen benötigen Sie eine Verbindung mit einem Wi-Fi- oder mobilen Datennetzwerk.";
+
+/* Class = "IBUILabel"; text = "budgetMenu"; ObjectID = "fY9-7A-hmQ"; */
+"fY9-7A-hmQ.text" = "budgetMenu";
+
+/* Class = "IBUILabel"; text = "Verbindung nicht möglich"; ObjectID = "gXm-PI-Ufg"; */
+"gXm-PI-Ufg.text" = "Verbindung nicht möglich";
+
+/* Class = "IBUILabel"; text = "Keine Daten verfügbar"; ObjectID = "gfZ-d6-IJK"; */
+"gfZ-d6-IJK.text" = "Keine Daten verfügbar";
+
+/* Class = "IBUILabel"; text = "meatMenu"; ObjectID = "jIh-C4-IL0"; */
+"jIh-C4-IL0.text" = "meatMenu";
+
+/* Class = "IBUILabel"; text = "Date"; ObjectID = "o9B-yD-7Kt"; */
+"o9B-yD-7Kt.text" = "Date";
+
+/* Class = "IBUILabel"; text = "Es wurden keine aktuellen Neuigkeiten gefunden. Bitte versuchen Sie es später erneut."; ObjectID = "od8-W0-fqg"; */
+"od8-W0-fqg.text" = "Es wurden keine aktuellen Neuigkeiten gefunden. Bitte versuchen Sie es später erneut.";
+
+/* Class = "IBUILabel"; text = "Keine Daten verfügbar"; ObjectID = "qFT-Hl-hDd"; */
+"qFT-Hl-hDd.text" = "Keine Daten verfügbar";
+
+/* Class = "IBUISegmentedControl"; rtj-yO-6vk.segmentTitles[0] = "First"; ObjectID = "rtj-yO-6vk"; */
+"rtj-yO-6vk.segmentTitles[0]" = "First";
+
+/* Class = "IBUISegmentedControl"; rtj-yO-6vk.segmentTitles[1] = "Second"; ObjectID = "rtj-yO-6vk"; */
+"rtj-yO-6vk.segmentTitles[1]" = "Second";
+
+/* Class = "IBUILabel"; text = "Es wurden keine aktuellen Daten für den Menüplan gefunden. Bitte versuchen Sie es später erneut."; ObjectID = "vEx-tn-wu7"; */
+"vEx-tn-wu7.text" = "Es wurden keine aktuellen Daten für den Menüplan gefunden. Bitte versuchen Sie es später erneut.";
+
+/* Class = "IBUITabBarItem"; title = "Item"; ObjectID = "vyy-dA-Uxe"; */
+"vyy-dA-Uxe.title" = "Item";
