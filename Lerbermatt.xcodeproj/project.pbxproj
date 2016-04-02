@@ -9,22 +9,14 @@
 /* Begin PBXBuildFile section */
 		0E55D5D91C32C6A00059594F /* SwiftyTransport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E55D5D81C32C6A00059594F /* SwiftyTransport.swift */; };
 		0E55D5DA1C32D1FD0059594F /* SwiftyTransport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E55D5D81C32C6A00059594F /* SwiftyTransport.swift */; };
-		0E55D5DC1C32D3D40059594F /* Location+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E55D5DB1C32D3D40059594F /* Location+CoreDataProperties.swift */; };
+		0E724EF51C83463D00365B81 /* GLBusTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E724EF41C83463D00365B81 /* GLBusTableViewController.swift */; };
 		0E7719641BBB147E00461C5D /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E7719631BBB147E00461C5D /* TabBarController.swift */; };
 		0E7719661BBB148900461C5D /* MoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E7719651BBB148900461C5D /* MoreViewController.swift */; };
-		0E911BCB1C30A272008EC1B5 /* BusModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0E911BC91C30A272008EC1B5 /* BusModel.xcdatamodeld */; };
-		0E911BD21C30A6E3008EC1B5 /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E911BCE1C30A6E3008EC1B5 /* Location.swift */; };
-		0E911BD91C30A7EC008EC1B5 /* GLBusAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E911BD81C30A7EC008EC1B5 /* GLBusAPI.swift */; };
 		0E911BE11C30AFF9008EC1B5 /* LerbermattTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E911BE01C30AFF9008EC1B5 /* LerbermattTests.swift */; };
 		0EAAAC7F1C5E5B2B00B5414B /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0EAAAC7E1C5E5B2B00B5414B /* Info.plist */; };
-		0ECF0D341C4BAE0E00A28D1D /* GLBusTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ECF0D331C4BAE0E00A28D1D /* GLBusTableViewController.swift */; };
-		0EDDC2EE1C5E3B8D006CE124 /* GLBusAddLocationTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EDDC2ED1C5E3B8D006CE124 /* GLBusAddLocationTableViewController.swift */; };
-		0EDDC2F01C5E4203006CE124 /* AddLocationSearchResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EDDC2EF1C5E4203006CE124 /* AddLocationSearchResult.swift */; };
-		0EECFE521C30B12900E1B9A4 /* GLBusPersistency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EECFE511C30B12900E1B9A4 /* GLBusPersistency.swift */; };
 		B58C04E119964FDE00CFD9FD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B58C04DF19964FDE00CFD9FD /* Main.storyboard */; };
 		B5A964FB194339D400B1B9EC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A964FA194339D400B1B9EC /* AppDelegate.swift */; };
 		B5A964FD194339D400B1B9EC /* NewsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A964FC194339D400B1B9EC /* NewsViewController.swift */; };
-		B5A964FF194339D400B1B9EC /* GLBusNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A964FE194339D400B1B9EC /* GLBusNavigationController.swift */; };
 		B5A96504194339D400B1B9EC /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5A96503194339D400B1B9EC /* Images.xcassets */; };
 		B5A9651A19433A4C00B1B9EC /* MensaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A9651919433A4C00B1B9EC /* MensaViewController.swift */; };
 		B5F0408919AE4311009EC5B1 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5F0408819AE4311009EC5B1 /* Constants.swift */; };
@@ -53,20 +45,13 @@
 
 /* Begin PBXFileReference section */
 		0E55D5D81C32C6A00059594F /* SwiftyTransport.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyTransport.swift; sourceTree = "<group>"; };
-		0E55D5DB1C32D3D40059594F /* Location+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Location+CoreDataProperties.swift"; path = "Bus/Model/Location+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		0E724EF41C83463D00365B81 /* GLBusTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GLBusTableViewController.swift; path = Bus/Controller/GLBusTableViewController.swift; sourceTree = "<group>"; };
 		0E7719631BBB147E00461C5D /* TabBarController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
 		0E7719651BBB148900461C5D /* MoreViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MoreViewController.swift; sourceTree = "<group>"; };
-		0E911BCA1C30A272008EC1B5 /* BusModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = BusModel.xcdatamodel; sourceTree = "<group>"; };
-		0E911BCE1C30A6E3008EC1B5 /* Location.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Location.swift; path = Bus/Model/Location.swift; sourceTree = "<group>"; };
-		0E911BD81C30A7EC008EC1B5 /* GLBusAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GLBusAPI.swift; path = Bus/API/GLBusAPI.swift; sourceTree = "<group>"; };
 		0E911BDE1C30AFF9008EC1B5 /* LerbermattTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LerbermattTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E911BE01C30AFF9008EC1B5 /* LerbermattTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LerbermattTests.swift; sourceTree = "<group>"; };
 		0E911BE21C30AFF9008EC1B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0EAAAC7E1C5E5B2B00B5414B /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0ECF0D331C4BAE0E00A28D1D /* GLBusTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GLBusTableViewController.swift; path = Bus/Controller/GLBusTableViewController.swift; sourceTree = "<group>"; };
-		0EDDC2ED1C5E3B8D006CE124 /* GLBusAddLocationTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GLBusAddLocationTableViewController.swift; path = Bus/Controller/GLBusAddLocationTableViewController.swift; sourceTree = "<group>"; };
-		0EDDC2EF1C5E4203006CE124 /* AddLocationSearchResult.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AddLocationSearchResult.swift; path = Bus/Model/AddLocationSearchResult.swift; sourceTree = "<group>"; };
-		0EECFE511C30B12900E1B9A4 /* GLBusPersistency.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GLBusPersistency.swift; path = Bus/API/GLBusPersistency.swift; sourceTree = "<group>"; };
 		25AFEC19D69F3FA54B2F3ECC /* Pods-Lerbermatt.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Lerbermatt.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Lerbermatt/Pods-Lerbermatt.debug.xcconfig"; sourceTree = "<group>"; };
 		6A297F9DE313FC61DDE021BD /* Pods-Gymkl SwiftTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Gymkl SwiftTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Gymkl SwiftTests/Pods-Gymkl SwiftTests.release.xcconfig"; sourceTree = "<group>"; };
 		6D5040037DB7AE3978E974A5 /* Pods_Gymkl_SwiftTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Gymkl_SwiftTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -74,7 +59,6 @@
 		B5A964F5194339D400B1B9EC /* Lerbermatt.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lerbermatt.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5A964FA194339D400B1B9EC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = AppDelegate.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B5A964FC194339D400B1B9EC /* NewsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsViewController.swift; sourceTree = "<group>"; };
-		B5A964FE194339D400B1B9EC /* GLBusNavigationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GLBusNavigationController.swift; sourceTree = "<group>"; };
 		B5A96503194339D400B1B9EC /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		B5A96509194339D400B1B9EC /* Gymkl SwiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Gymkl SwiftTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5A9651919433A4C00B1B9EC /* MensaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MensaViewController.swift; sourceTree = "<group>"; };
@@ -113,23 +97,10 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		0E911BCC1C30A6DA008EC1B5 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-				0E55D5DB1C32D3D40059594F /* Location+CoreDataProperties.swift */,
-				0E911BCE1C30A6E3008EC1B5 /* Location.swift */,
-				0EDDC2EF1C5E4203006CE124 /* AddLocationSearchResult.swift */,
-				0E911BC91C30A272008EC1B5 /* BusModel.xcdatamodeld */,
-			);
-			name = Model;
-			sourceTree = "<group>";
-		};
 		0E911BD51C30A7B0008EC1B5 /* API */ = {
 			isa = PBXGroup;
 			children = (
-				0E911BD81C30A7EC008EC1B5 /* GLBusAPI.swift */,
 				0E55D5D81C32C6A00059594F /* SwiftyTransport.swift */,
-				0EECFE511C30B12900E1B9A4 /* GLBusPersistency.swift */,
 			);
 			name = API;
 			sourceTree = "<group>";
@@ -215,10 +186,7 @@
 			isa = PBXGroup;
 			children = (
 				0E911BD51C30A7B0008EC1B5 /* API */,
-				0E911BCC1C30A6DA008EC1B5 /* Model */,
-				B5A964FE194339D400B1B9EC /* GLBusNavigationController.swift */,
-				0ECF0D331C4BAE0E00A28D1D /* GLBusTableViewController.swift */,
-				0EDDC2ED1C5E3B8D006CE124 /* GLBusAddLocationTableViewController.swift */,
+				0E724EF41C83463D00365B81 /* GLBusTableViewController.swift */,
 			);
 			name = Bus;
 			sourceTree = "<group>";
@@ -503,23 +471,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B5A964FF194339D400B1B9EC /* GLBusNavigationController.swift in Sources */,
-				0EDDC2F01C5E4203006CE124 /* AddLocationSearchResult.swift in Sources */,
-				0EDDC2EE1C5E3B8D006CE124 /* GLBusAddLocationTableViewController.swift in Sources */,
-				0E911BD21C30A6E3008EC1B5 /* Location.swift in Sources */,
 				B5A964FB194339D400B1B9EC /* AppDelegate.swift in Sources */,
-				0E911BD91C30A7EC008EC1B5 /* GLBusAPI.swift in Sources */,
-				0E55D5DC1C32D3D40059594F /* Location+CoreDataProperties.swift in Sources */,
 				0E7719661BBB148900461C5D /* MoreViewController.swift in Sources */,
-				0E911BCB1C30A272008EC1B5 /* BusModel.xcdatamodeld in Sources */,
 				0E55D5D91C32C6A00059594F /* SwiftyTransport.swift in Sources */,
 				DD8B65E119E48ABD00FE8B8D /* Old MensaView Code.swift in Sources */,
 				B5A964FD194339D400B1B9EC /* NewsViewController.swift in Sources */,
 				0E7719641BBB147E00461C5D /* TabBarController.swift in Sources */,
+				0E724EF51C83463D00365B81 /* GLBusTableViewController.swift in Sources */,
 				B5A9651A19433A4C00B1B9EC /* MensaViewController.swift in Sources */,
-				0ECF0D341C4BAE0E00A28D1D /* GLBusTableViewController.swift in Sources */,
 				B5F0408919AE4311009EC5B1 /* Constants.swift in Sources */,
-				0EECFE521C30B12900E1B9A4 /* GLBusPersistency.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -787,19 +747,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCVersionGroup section */
-		0E911BC91C30A272008EC1B5 /* BusModel.xcdatamodeld */ = {
-			isa = XCVersionGroup;
-			children = (
-				0E911BCA1C30A272008EC1B5 /* BusModel.xcdatamodel */,
-			);
-			currentVersion = 0E911BCA1C30A272008EC1B5 /* BusModel.xcdatamodel */;
-			path = BusModel.xcdatamodeld;
-			sourceTree = "<group>";
-			versionGroupType = wrapper.xcdatamodel;
-		};
-/* End XCVersionGroup section */
 	};
 	rootObject = B5A964ED194339D400B1B9EC /* Project object */;
 }

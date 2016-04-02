@@ -81,7 +81,7 @@ class SwiftyTransport: NSObject {
                 return
             }
 
-            self.delegate.didGetLocationsData(data!)
+            self.delegate.didGetLocationsData?(data!)
         }.resume()
     }
 
@@ -213,7 +213,7 @@ class SwiftyTransport: NSObject {
                     return
                 }
                 
-                self.delegate.didGetConnectionsData(data!)
+                self.delegate.didGetConnectionsData?(data!)
             }.resume()
         } else {
             throw SwiftyTransportError.InvalidURL
@@ -301,7 +301,7 @@ class SwiftyTransport: NSObject {
                 return
             }
             
-            self.delegate.didGetStationboardData(data!)
+            self.delegate.didGetStationboardData?(data!)
         }.resume()
     }
     
@@ -355,9 +355,9 @@ enum SwiftyTransportError: ErrorType {
     case InvalidURL
 }
 
-protocol SwiftyTransportDelegate {
-    func didGetLocationsData(data: NSData)
-    func didGetConnectionsData(data: NSData)
-    func didGetStationboardData(data: NSData)
+@objc protocol SwiftyTransportDelegate {
+    optional func didGetLocationsData(data: NSData)
+    optional func didGetConnectionsData(data: NSData)
+    optional func didGetStationboardData(data: NSData)
     func didFailWithError(error: NSError?)
 }
